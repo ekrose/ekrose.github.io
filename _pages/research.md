@@ -10,10 +10,10 @@ redirect_from:
 
 ## Works in progress
 
-[**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf).   
+[**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
 Revise and Resubmit, *The Quarterly Journal of Economics*
 
-[**Does Incarceration Increase Crime?**](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html).   
+[**Does Incarceration Increase Crime?**](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
