@@ -11,7 +11,7 @@ redirect_from:
 ## Works in progress
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
-Conditionally Accepted, *The Quarterly Journal of Economics*
+Conditionally Accepted, *The Quarterly Journal of Economics*, [Online Appendix](/files/jmp_online_appendix.pdf)   
 
 [**Does Incarceration Increase Crime?**](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 
