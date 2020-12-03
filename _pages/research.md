@@ -26,7 +26,7 @@ Revision in progress
 Accepted, *The Quarterly Journal of Economics*; [*Online Appendix*](/files/jmp_online_appendix.pdf)  
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btb_seattle_0418.pdf)  
-Accepted, *Journal of Labor Economics*; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
+Forthcoming, *Journal of Labor Economics*; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
 *The Journal of Economic History*, Vol. 78, No. 3 (September 2018); [*Online appendix*](/files/rise_and_fall_online_appendix.pdf)
