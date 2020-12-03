@@ -8,13 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Works in progress
-
-[**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
-Conditionally Accepted, *The Quarterly Journal of Economics*; [*Online Appendix*](/files/jmp_online_appendix.pdf)   
+## Works in progress 
 
 [**Does Incarceration Increase Crime?**](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
-
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
@@ -25,6 +21,9 @@ Revision in progress
 
 
 ## Published and accepted work
+
+[**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
+Accepted, *The Quarterly Journal of Economics*; [*Online Appendix*](/files/jmp_online_appendix.pdf)  
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btb_seattle_0418.pdf)  
 Accepted, *Journal of Labor Economics*; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
