@@ -11,6 +11,7 @@ redirect_from:
 ## Works in progress 
 
 [**Does Incarceration Increase Crime?**](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
+
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
