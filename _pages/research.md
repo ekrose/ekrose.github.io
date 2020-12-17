@@ -23,7 +23,7 @@ Revision in progress
 
 ## Published and accepted work
 
-[**Adaptive Correspondence Experiments**](https://eml.berkeley.edu//~crwalters/papers/skynet.pdf) with Hadar Avivi, [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/) 
+[**Adaptive Correspondence Experiments**](https://eml.berkeley.edu//~crwalters/papers/skynet.pdf) with Hadar Avivi, [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 To appear in May 2021 *AEA Papers and Proceedings*
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
