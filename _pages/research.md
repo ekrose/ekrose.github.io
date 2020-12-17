@@ -23,11 +23,14 @@ Revision in progress
 
 ## Published and accepted work
 
+[**Adaptive Correspondence Experiments**](https://eml.berkeley.edu//~crwalters/papers/skynet.pdf) with Hadar Avivi, Patrick Kline[https://eml.berkeley.edu/~pkline/], and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)
+To appear in May 2021 *AEA Papers and Proceedings*
+
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
 *The Quarterly Journal of Economics*, accepted; [*Online appendix*](/files/jmp_online_appendix.pdf)  
 
-[**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btb_seattle_0418.pdf)  
-*Journal of Labor Economics*, forthcoming; [*Online appendix*](/files/btb_online_appendix_0418.pdf)
+[**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
+*Journal of Labor Economics*, Vol. 29, No. 1 (January 2021); [*Online appendix*](/files/btb_online_appendix_0418.pdf)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
 *The Journal of Economic History*, Vol. 78, No. 3 (September 2018); [*Online appendix*](/files/rise_and_fall_online_appendix.pdf)
