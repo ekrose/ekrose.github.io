@@ -27,7 +27,7 @@ Revision in progress
 To appear in May 2021 *AEA Papers and Proceedings*
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
-*The Quarterly Journal of Economics*, accepted; [*Online appendix*](/files/jmp_online_appendix.pdf)  
+*The Quarterly Journal of Economics*, accepted; [*Online appendix*](/files/jmp_online_appendix.pdf); [*Slides*](/files/rose_second_chances.pdf);
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
 *Journal of Labor Economics*, Vol. 29, No. 1 (January 2021); [*Online appendix*](/files/btb_online_appendix_0418.pdf)
