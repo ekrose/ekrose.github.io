@@ -11,7 +11,7 @@ redirect_from:
 ## Works in progress 
 
 [**How Does Incarceration Affect Crime? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revise and Resubmit, *Journal of Political Economy*; [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
+Revise and resubmit, *Journal of Political Economy*; [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
