@@ -31,7 +31,7 @@ To appear in May 2021 *AEA Papers and Proceedings*; [*slides*](https://avivihada
 *The Quarterly Journal of Economics*, accepted; [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
-*Journal of Labor Economics*, Vol. 29, No. 1 (January 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
+*Journal of Labor Economics*, Vol. 39, No. 1 (January 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
 *The Journal of Economic History*, Vol. 78, No. 3 (September 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf)
