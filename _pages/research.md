@@ -10,9 +10,6 @@ redirect_from:
 
 ## Works in progress 
 
-[**How Does Incarceration Affect Crime? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revise and resubmit, *Journal of Political Economy*; [*online appendix*](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Online_Appendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
-
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
@@ -23,6 +20,8 @@ Revision in progress
 
 
 ## Published and accepted work
+[**How Does Incarceration Affect Crime? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+*Journal of Political Economy*, accepted; [*online appendix*](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Online_Appendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
 [**Adaptive Correspondence Experiments**](https://eml.berkeley.edu//~crwalters/papers/skynet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 To appear in May 2021 *AEA Papers and Proceedings*; [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/system/files/working_papers/w28319/w28319.pdf)
