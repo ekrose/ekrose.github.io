@@ -27,7 +27,7 @@ Revision in progress
 To appear in May 2021 *AEA Papers and Proceedings*; [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/system/files/working_papers/w28319/w28319.pdf)
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
-*The Quarterly Journal of Economics*, accepted; [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)
+*The Quarterly Journal of Economics*, Vol. 136, No. 2 (May 2021); [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
 *Journal of Labor Economics*, Vol. 39, No. 1 (January 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
