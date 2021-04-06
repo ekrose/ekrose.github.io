@@ -20,7 +20,7 @@ Revision in progress
 
 
 ## Published and accepted work
-[**How Does Incarceration Affect Crime? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+[**How Does Incarceration Affect Crime? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 *Journal of Political Economy*, accepted; [*online appendix*](https://yotamshemtov.github.io/files/Rose_Shemtov_2020_Online_Appendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
 [**Adaptive Correspondence Experiments**](https://eml.berkeley.edu//~crwalters/papers/skynet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
