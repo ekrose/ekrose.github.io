@@ -14,5 +14,5 @@ redirect_from:
 I will join the University of Chicago's Economics Department as a Neubauer Family Assistant Professor in 2022 after spending the 2021-22 academic year as a Saieh Family Research Fellow at the Becker Friedman Institute. 
 
 If you'd like to contact me, you can email ekrose at gmail.com. You can find a relatively current version of my CV [here](/files/ekr_cv_12-09-19_jmp_long.pdf). I'm on Google Scholar [here](https://scholar.google.com/citations?user=dMs-BJUAAAAJ). I have a largely neglected Twitter account [here](https://twitter.com/evankrose).       
-
+You can listen to me talk about some of my work on the Microsoft Research podcast [here](https://www.microsoft.com/en-us/research/podcast/econ1-using-microeconomics-to-solve-mass-incarceration-featuring-hunt-allcott-and-evan-rose/).
   
