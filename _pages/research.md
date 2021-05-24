@@ -23,8 +23,8 @@ Revision in progress
 [**How Does Incarceration Affect Crime? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 *Journal of Political Economy*, accepted; [*online appendix*](https://yotamshemtov.github.io/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
-[**Adaptive Correspondence Experiments**](https://eml.berkeley.edu//~crwalters/papers/skynet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-*AEA Papers and Proceedings*, forthcoming; [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/papers/w28319)
+[**Adaptive Correspondence Experiments**](/files/skynet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
+*AEA Papers and Proceedings*, Vol. 11 (May 2021); [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/papers/w28319)
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
 *The Quarterly Journal of Economics*, Vol. 136, No. 2 (May 2021); [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)
