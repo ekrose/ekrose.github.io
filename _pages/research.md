@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress 
 
-[**School Discipline and Racial Disparities in Early Adulthood**](https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html) Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo 
+[**School Discipline and Racial Disparities in Early Adulthood**](https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo 
 
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
