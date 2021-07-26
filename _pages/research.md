@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress 
 
-[**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)
+[**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/) 
 NBER Working Paper No. 29053, 2021
 
 [**School Discipline and Racial Disparities in Early Adulthood**](https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo 
