@@ -30,7 +30,7 @@ Revision in progress
 *Educational Researcher*, accepted  
 
 [**How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**](/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-*Journal of Political Economy*, Vol. 129, No. 12 (Dec 2021); [*online appendix*](/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
+*Journal of Political Economy*, Vol. 129, No. 12 (Dec 2021); [*online appendix*](/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior JM draft*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
 [**Adaptive Correspondence Experiments**](/files/SkyNet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 *AEA Papers and Proceedings*, Vol. 111 (May 2021); [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/papers/w28319)
