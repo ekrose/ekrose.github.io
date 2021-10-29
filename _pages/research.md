@@ -30,7 +30,7 @@ Revision in progress
 *Educational Researcher*, accepted  
 
 [**How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**](/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-*Journal of Political Economy*, Vol. 129, No. 12 (December 2021); [*online appendix*](/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
+*Journal of Political Economy*, Vol. 129, No. 12 (Dec 2021); [*online appendix*](/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
 [**Adaptive Correspondence Experiments**](/files/SkyNet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 *AEA Papers and Proceedings*, Vol. 111 (May 2021); [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/papers/w28319)
@@ -39,7 +39,7 @@ Revision in progress
 *The Quarterly Journal of Economics*, Vol. 136, No. 2 (May 2021); [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
-*Journal of Labor Economics*, Vol. 39, No. 1 (January 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
+*Journal of Labor Economics*, Vol. 39, No. 1 (Jan 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
-*The Journal of Economic History*, Vol. 78, No. 3 (September 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf); [*replication archive*](https://www.dropbox.com/s/sbp6cvmgse4cqyb/replication.zip?dl=1)
+*The Journal of Economic History*, Vol. 78, No. 3 (Sep 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf); [*replication archive*](https://www.dropbox.com/s/sbp6cvmgse4cqyb/replication.zip?dl=1)
