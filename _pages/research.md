@@ -15,8 +15,6 @@ NBER working paper no. 29053, 2021
 Revision requested at *The Quarterly Journal of Economics*  
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs)  
 
-[**School Discipline and Racial Disparities in Early Adulthood**](https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
-Census Bureau working paper no. CES-21-14, 2021  
 
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
@@ -28,6 +26,9 @@ Revision in progress
 
 
 ## Published and accepted work
+[**School Discipline and Racial Disparities in Early Adulthood**](https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
+*Educational Researcher*, accepted  
+
 [**How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**](https://yotamshemtov.github.io/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 *Journal of Political Economy*, forthcoming; [*online appendix*](https://yotamshemtov.github.io/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior draft (titled "Does Incarceration Increase Crime?")*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
