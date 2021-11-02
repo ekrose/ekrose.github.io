@@ -17,5 +17,5 @@ If you'd like to contact me, you can email ekrose at uchicago.edu. You can find 
 
 You can listen to me talk about some of my work on the Microsoft Research podcast [here](https://www.microsoft.com/en-us/research/podcast/econ1-using-microeconomics-to-solve-mass-incarceration-featuring-hunt-allcott-and-evan-rose/) and on InequaliTalks [here](https://inequalitalks.fireside.fm/21).
 
-**Office hours** by appointment (email me).
+**Office hours by appointment** (email me).
   
