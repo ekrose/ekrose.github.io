@@ -18,7 +18,7 @@ Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racia
 
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
-[**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)
+[**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 [arXiv link](http://arxiv.org/abs/2111.12258)  
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
