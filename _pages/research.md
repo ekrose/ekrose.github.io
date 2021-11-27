@@ -19,7 +19,7 @@ Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racia
 [**The Effects of Teacher Quality on Criminal Behavior**](https://drive.google.com/uc?export=pdf&id=1agkUuMjtPIPoQlgQEel3tVVofs2WFVsA) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 
 [**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Under review; [arXiv](http://arxiv.org/abs/2111.12258)  
+Under review; [arXiv link](http://arxiv.org/abs/2111.12258)  
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
