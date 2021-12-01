@@ -29,7 +29,7 @@ Revision in progress
 
 
 ## Published and accepted work
-[**School Discipline and Racial Disparities in Early Adulthood**](https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
+[**School Discipline and Racial Disparities in Early Adulthood**](/files/dprsy_discipline.pdf) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
 *Educational Researcher*, accepted  
 
 [**How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**](/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
