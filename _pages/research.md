@@ -16,7 +16,7 @@ Revision requested at *The Quarterly Journal of Economics*
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs)  
 
 
-[**The Effects of Teacher Quality on Criminal Behavior**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+[**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review  
 
 [**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
