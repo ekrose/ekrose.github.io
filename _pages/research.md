@@ -15,9 +15,6 @@ NBER working paper no. 29053, 2021
 Revision requested at *The Quarterly Journal of Economics*  
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs)  
 
-[**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
-Prepared for Yale's Race, Ethnicity, Gender, and Economic Justice Virtual Symposium. 
-
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review  
 
@@ -28,7 +25,10 @@ Under review; [arXiv link](http://arxiv.org/abs/2111.12258)
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
 
 [**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
-Revision in progress
+Revision in progress  
+
+[**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
+Prepared for Yale's Race, Ethnicity, Gender, and Economic Justice Virtual Symposium. 
 
 
 ## Published and accepted work
