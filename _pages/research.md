@@ -28,7 +28,7 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
 Revision in progress  
 
 [**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
-Prepared for Yale's Race, Ethnicity, Gender, and Economic Justice Virtual Symposium. 
+Prepared for Yale's Race, Ethnicity, Gender, and Economic Justice Virtual Symposium  
 
 
 ## Published and accepted work
