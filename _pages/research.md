@@ -37,7 +37,7 @@ Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racia
 *Journal of Political Economy*, Vol. 129, No. 12 (Dec 2021); [*online appendix*](/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior JM draft*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
 
 [**Adaptive Correspondence Experiments**](/files/SkyNet.pdf) with [Hadar Avivi](https://avivihadar.github.io/), [Patrick Kline](https://eml.berkeley.edu/~pkline/), and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-*AEA Papers and Proceedings*, Vol. 111 (May 2021); [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/papers/w28319)
+*AEA Papers and Proceedings*, Vol. 111 (May 2021); [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip)  
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
 *The Quarterly Journal of Economics*, Vol. 136, No. 2 (May 2021); [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)  
