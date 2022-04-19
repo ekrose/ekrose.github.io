@@ -28,10 +28,10 @@ Prepared for Yale's Race, Ethnicity, Gender, and Economic Justice Virtual Sympos
 ## Published and accepted work
 [**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 Accepted at *The Quarterly Journal of Economics*  
-Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs)  
+Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs), [Econimate](https://www.youtube.com/watch?v=fLgWIyx0gDw)    
 
 [**School Discipline and Racial Disparities in Early Adulthood**](/files/dprsy_discipline.pdf) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
-*Educational Researcher*, accepted  
+Accepeted at *Educational Researcher*  
 
 [**How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**](/files/Rose_Shemtov_2021_Manuscript.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 *Journal of Political Economy*, Vol. 129, No. 12 (Dec 2021); [*online appendix*](/files/Rose_Shemtov_2021_OnlineAppendix.pdf); [*prior JM draft*](https://yotamshemtov.github.io/files/YotamShemTov_JMP.pdf)
@@ -40,7 +40,8 @@ Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racia
 *AEA Papers and Proceedings*, Vol. 111 (May 2021); [*slides*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_Slides.pdf); [*replication archive*](https://avivihadar.github.io/files/AdaptiveCorrespondenceExperiments_code.zip); [*NBER version*](https://www.nber.org/papers/w28319)
 
 [**Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders**](/files/jmp.pdf)   
-*The Quarterly Journal of Economics*, Vol. 136, No. 2 (May 2021); [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf)
+*The Quarterly Journal of Economics*, Vol. 136, No. 2 (May 2021); [*online appendix*](/files/jmp_online_appendix.pdf); [*slides*](/files/rose_second_chances.pdf) 
+Coverage: [Econimate](https://www.youtube.com/watch?v=K0W9TBKTwnU) 
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
 *Journal of Labor Economics*, Vol. 39, No. 1 (Jan 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
