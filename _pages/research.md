@@ -21,11 +21,11 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
 [**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
 Revision in progress  
 
-[**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
-Prepared for Yale's Race, Ethnicity, Gender, and Economic Justice Virtual Symposium  
-
 
 ## Published and accepted work
+[**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
+*Journal of Economic Literature*, forthcoming 
+
 [**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 *The Quarterly Journal of Economics*, forthcoming    
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs), [Econimate](https://www.youtube.com/watch?v=fLgWIyx0gDw)    
