@@ -27,7 +27,7 @@ Revision in progress
 *Journal of Economic Literature*, forthcoming 
 
 [**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-*The Quarterly Journal of Economics*, forthcoming    
+*The Quarterly Journal of Economics*, forthcoming; [*replication archive*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HLO4XC)      
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs), [Econimate](https://www.youtube.com/watch?v=fLgWIyx0gDw)    
 
 [**School Discipline and Racial Disparities in Early Adulthood**](/files/dprsy_discipline.pdf) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
