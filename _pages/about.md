@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320">I am a Saieh Family Research Fellow at the University of Chicago's Becker Friedman Institute. I work mainly on topics in labor, human capital, discrimination, and crime. In 2020, I graduated (virtually) from UC Berkeley. Prior to coming to Berkeley, I worked in New York City, where I moved after graduating from the University of North Carolina at Chapel Hill.
-
-I will join the University of Chicago's Economics Department as a Neubauer Family Assistant Professor in 2022. Prior to coming to Chicago, I spent a year as a Postdoctoral Researcher at Microsoft Research in Cambridge, MA. 
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="320">I am a Neubauer Family Assistant Professor in the Kenneth C. Griffin Department of Economics at the University of Chicago. I work mainly on topics in labor, human capital, discrimination, and crime. 
 
 If you'd like to contact me, you can email ekrose at uchicago.edu. You can find a relatively current version of my CV [here](/files/ekr_cv.pdf). I'm on Google Scholar [here](https://scholar.google.com/citations?user=dMs-BJUAAAAJ). I have a largely neglected Twitter account [here](https://twitter.com/evankrose).
 
