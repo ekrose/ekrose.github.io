@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress 
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Under review  
+Under review; [NBER version](https://www.nber.org/papers/w30274)   
 
 [**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review; [arXiv link](http://arxiv.org/abs/2111.12258)  
