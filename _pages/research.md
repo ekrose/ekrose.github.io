@@ -13,7 +13,7 @@ redirect_from:
 Under review; [NBER version](https://www.nber.org/papers/w30274)   
 
 [**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Under review; [arXiv link](http://arxiv.org/abs/2111.12258)  
+Revision requested, *The Review of Economics and Statistics*; [arXiv link](http://arxiv.org/abs/2111.12258)  
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
