@@ -9,8 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Works in progress 
-[**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home),  
-[Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+[**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review  
 
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
