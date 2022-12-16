@@ -54,4 +54,4 @@ Coverage: [Econimate](https://www.youtube.com/watch?v=K0W9TBKTwnU)
 *Journal of Labor Economics*, Vol. 39, No. 1 (Jan 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
-*The Journal of Economic History*, Vol. 78, No. 3 (Sep 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf); [*replication archive*](https://www.dropbox.com/s/sbp6cvmgse4cqyb/replication.zip?dl=1)
+*The Journal of Economic History*, Vol. 78, No. 3 (Sep 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf); [*replication archive*](https://www.dropbox.com/s/fq3c530ngw8443g/replication_full.zip?dl=1)
