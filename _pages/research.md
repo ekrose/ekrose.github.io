@@ -9,6 +9,9 @@ redirect_from:
 {% include base_path %}
 
 ## Works in progress 
+[**How Replaceable Is a Low-Wage Job**](/files/fringe.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
+Working paper 
+
 **The Impact of Incarceration on Employment and Earnings** with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
 Under review; email for draft 
 
