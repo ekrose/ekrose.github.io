@@ -34,7 +34,7 @@ Revision in progress
 
 ## Published and accepted work
 [**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
-*Journal of Economic Literature*, forthcoming 
+*Journal of Economic Literature*, Vol. 51, No. 3 (Sep 2023) 
 
 [**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 *The Quarterly Journal of Economics*, Vol. 137, No. 4 (Nov 2022); [*online appendix*](/files/randres_appx.pdf); [*slides*](/files/randres_slides_final.pdf); [*replication archive*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HLO4XC)      
