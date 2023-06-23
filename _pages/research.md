@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress 
 [**A Discrimination Report Card**](https://arxiv.org/abs/2306.13005) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-Under review; *DRrank* [*GitHub*](https://github.com/ekrose/drrank)       
+Under review; [*DRrank*](https://github.com/ekrose/drrank)       
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 Working paper 
