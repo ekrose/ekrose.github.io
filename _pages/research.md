@@ -24,8 +24,8 @@ Revision requested, *Journal of Political Economy*;  [NBER version](https://www.
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review; [NBER version](https://www.nber.org/papers/w30274)   
 
-[**On Recoding Ordered Treatments as Binary Indicators**](/files/EMCO.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revision requested, *The Review of Economics and Statistics*; [arXiv link](http://arxiv.org/abs/2111.12258)  
+[**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+Revision requested, *The Review of Economics and Statistics*    
 
 [**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
 Revision in progress  
