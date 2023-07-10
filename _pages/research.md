@@ -13,7 +13,7 @@ redirect_from:
 Under review; [*DRrank*](https://github.com/ekrose/drrank) package      
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
-Working paper 
+Working paper; [NBER version](https://www.nber.org/papers/w31447)  
 
 **The Impact of Incarceration on Employment and Earnings** with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
 Under review; email for draft 
