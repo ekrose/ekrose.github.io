@@ -15,8 +15,8 @@ Under review; [*DRrank*](https://github.com/ekrose/drrank) package
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 Working paper; [NBER version](https://www.nber.org/papers/w31447)  
 
-**The Impact of Incarceration on Employment and Earnings** with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
-Under review; email for draft 
+[**The Impact of Incarceration on Employment and Earnings**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
+Under review  
 
 [**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Revision requested, *Journal of Political Economy*;  [NBER version](https://www.nber.org/papers/w30622)  
