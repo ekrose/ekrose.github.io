@@ -13,7 +13,7 @@ redirect_from:
 Under review; [*DRrank*](https://github.com/ekrose/drrank) package      
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
-Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/insight/research-summary/how-replaceable-is-a-low-wage-job/)     
+Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/How-Replaceable-Is-a-Low-Wage-Job.pdf)     
 
 [**The Impact of Incarceration on Employment, Earnings, and Tax Filing**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
 Under review; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf)     
