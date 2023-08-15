@@ -13,10 +13,10 @@ redirect_from:
 Under review; [*DRrank*](https://github.com/ekrose/drrank) package      
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
-Working paper; [NBER version](https://www.nber.org/papers/w31447); [Non-technical summary](https://bfi.uchicago.edu/insight/research-summary/how-replaceable-is-a-low-wage-job/)     
+Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/insight/research-summary/how-replaceable-is-a-low-wage-job/)     
 
 [**The Impact of Incarceration on Employment and Earnings**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
-Under review; [Non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf)     
+Under review; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf)     
 
 [**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Revision requested, *Journal of Political Economy*;  [NBER version](https://www.nber.org/papers/w30622)  
@@ -40,7 +40,7 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
 *Journal of Economic Literature*, Vol. 51, No. 3 (Sep 2023) 
 
 [**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-*The Quarterly Journal of Economics*, Vol. 137, No. 4 (Nov 2022); [*online appendix*](/files/randres_appx.pdf); [*slides*](/files/randres_slides_final.pdf); [*replication archive*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HLO4XC); [Non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2021/09/Systemic-Discrimination-Among-Large-U.S.-Employers.pdf)         
+*The Quarterly Journal of Economics*, Vol. 137, No. 4 (Nov 2022); [*online appendix*](/files/randres_appx.pdf); [*slides*](/files/randres_slides_final.pdf); [*replication archive*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HLO4XC); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2021/09/Systemic-Discrimination-Among-Large-U.S.-Employers.pdf)         
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs), [Econimate](https://www.youtube.com/watch?v=fLgWIyx0gDw)    
 
 [**School Discipline and Racial Disparities in Early Adulthood**](/files/dprsy_discipline.pdf) with Miles Davison, [Andrew Penner](http://www.socsci.uci.edu/~penner/), [Emily Penner](http://www.emilykpenner.com/), Nikolas Pharris-Ciurej, Sonya R. Porter, [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and Paul Yoo  
