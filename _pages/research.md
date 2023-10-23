@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress 
 [**Laffer's Day in Court: The Revenue Effects of Criminal Justice Fees and Fines**](/files/laffer.pdf) with [Samuel Norris](https://www.samuel-norris.com/)  
-Working paper   
+Working paper; [NBER version](https://www.nber.org/papers/w31806?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg9)       
 
 [**A Discrimination Report Card**](https://arxiv.org/abs/2306.13005) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 Revision requested, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package      
