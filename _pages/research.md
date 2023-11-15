@@ -21,9 +21,6 @@ Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technica
 [**The Impact of Incarceration on Employment, Earnings, and Tax Filing**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
 Revision requested, *Econometrica*; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf); [related podcast](https://bfi.uchicago.edu/podcast/many-us-prisoners-do-return-to-society-what-job-and-earning-prospects-await-them/)        
 
-[**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revision requested, *Journal of Political Economy*;  [NBER version](https://www.nber.org/papers/w30622)  
-
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review; [NBER version](https://www.nber.org/papers/w30274)   
 
@@ -35,6 +32,9 @@ Revision in progress
 
 
 ## Published and accepted work
+[**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+Accepted, *Journal of Political Economy*;  [NBER version](https://www.nber.org/papers/w30622)  
+
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
 Conditionally accepted at *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
