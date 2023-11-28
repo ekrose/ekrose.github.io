@@ -42,7 +42,7 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
 [**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
 *Journal of Economic Literature*, Vol. 51, No. 3 (Sep 2023); [*replication archive*](https://www.openicpsr.org/openicpsr/project/171761/version/V1/view)   
 
-[**Systemic Discrimination Among Large U.S. Employers**](https://eml.berkeley.edu//~crwalters/papers/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
+[**Systemic Discrimination Among Large U.S. Employers**](/files/randres.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 *The Quarterly Journal of Economics*, Vol. 137, No. 4 (Nov 2022); [*online appendix*](/files/randres_appx.pdf); [*slides*](/files/randres_slides_final.pdf); [*replication archive*](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HLO4XC); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2021/09/Systemic-Discrimination-Among-Large-U.S.-Employers.pdf)         
 Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html), [Marketplace](https://www.marketplace.org/shows/marketplace-morning-report/research-spotlights-existence-of-racial-discrimination-in-hiring-process/), [Here and Now](https://www.wbur.org/hereandnow/2021/08/18/name-discrimination-jobs), [Econimate](https://www.youtube.com/watch?v=fLgWIyx0gDw)    
 
