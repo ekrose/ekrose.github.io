@@ -24,14 +24,14 @@ Revision requested, *Econometrica*; [non-technical summary](https://bfi.uchicago
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review; [NBER version](https://www.nber.org/papers/w30274)   
 
-[**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revision requested, *The Review of Economics and Statistics*    
-
 [**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
 Revision in progress  
 
 
 ## Published and accepted work
+[**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
+Conditionally accepted at *The Review of Economics and Statistics*    
+
 [**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Accepted, *Journal of Political Economy*;  [NBER version](https://www.nber.org/papers/w30622)  
 
