@@ -12,8 +12,6 @@ redirect_from:
 [**Laffer's Day in Court: The Revenue Effects of Criminal Justice Fees and Fines**](/files/laffer.pdf) with [Samuel Norris](https://www.samuel-norris.com/)  
 Working paper; [NBER version](https://www.nber.org/papers/w31806?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg9)       
 
-[**A Discrimination Report Card**](https://arxiv.org/abs/2306.13005) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-Revision requested, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package      
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/How-Replaceable-Is-a-Low-Wage-Job.pdf)     
@@ -29,15 +27,18 @@ Revision in progress
 
 
 ## Published and accepted work
+[**A Discrimination Report Card**](https://arxiv.org/abs/2306.13005) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
+Conditionally accepted, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package      
+
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Conditionally accepted at *The Review of Economics and Statistics*    
+Conditionally accepted, *The Review of Economics and Statistics*    
+
+[**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
+Conditionally accepted, *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
+Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
 
 [**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Accepted, *Journal of Political Economy*;  [NBER version](https://www.nber.org/papers/w30622)  
-
-[**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
-Conditionally accepted at *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
-Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
 
 [**A Constructivist Perspective on Empirical Discrimination Research**](/files/constructivism.pdf)  
 *Journal of Economic Literature*, Vol. 51, No. 3 (Sep 2023); [*replication archive*](https://www.openicpsr.org/openicpsr/project/171761/version/V1/view)   
