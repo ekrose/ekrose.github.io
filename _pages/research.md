@@ -10,7 +10,7 @@ redirect_from:
 
 ## Works in progress 
 [**Laffer's Day in Court: The Revenue Effects of Criminal Justice Fees and Fines**](/files/laffer.pdf) with [Samuel Norris](https://www.samuel-norris.com/)  
-Working paper; [NBER version](https://www.nber.org/papers/w31806?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg9)       
+Revision requested, *Journal of Public Economics*; [NBER version](https://www.nber.org/papers/w31806?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg9)       
 
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
