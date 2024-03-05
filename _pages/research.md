@@ -34,7 +34,7 @@ Conditionally accepted, *American Economic Review*; [*DRrank*](https://github.co
 Conditionally accepted, *The Review of Economics and Statistics*    
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
-Conditionally accepted, *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
+Forthcoming, *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
 
 [**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
