@@ -12,7 +12,6 @@ redirect_from:
 [**Laffer's Day in Court: The Revenue Effects of Criminal Justice Fees and Fines**](/files/laffer.pdf) with [Samuel Norris](https://www.samuel-norris.com/)  
 Revision requested, *Journal of Public Economics*; [NBER version](https://www.nber.org/papers/w31806?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg9)       
 
-
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/How-Replaceable-Is-a-Low-Wage-Job.pdf)     
 
@@ -31,7 +30,7 @@ Revision in progress
 Conditionally accepted, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package      
 
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Conditionally accepted, *The Review of Economics and Statistics*    
+Accepted, *The Review of Economics and Statistics*    
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
 Forthcoming, *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
