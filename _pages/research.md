@@ -27,11 +27,11 @@ Revision in progress
 
 ## Published and accepted work
 [**A Discrimination Report Card**](/files/report_cards.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-Conditionally accepted, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
+Forthcoming, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
 Coverage: [NYT](https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html)    
 
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Accepted, *The Review of Economics and Statistics*    
+Forthcoming, *The Review of Economics and Statistics*    
 
 [**Family Formation and Crime**](http://maximmassenkoff.com/FamilyFormationAndCrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
 Forthcoming, *American Economic Journal: Applied Economics*; [NBER version](https://www.nber.org/papers/w30385)  
