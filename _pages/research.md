@@ -61,7 +61,7 @@ Coverage: [NYT](https://www.nytimes.com/2021/07/29/business/economy/hiring-racia
 Coverage: [Econimate](https://www.youtube.com/watch?v=K0W9TBKTwnU) 
 
 [**Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example**](/files/btbjole_final.pdf)  
-*Journal of Labor Economics*, Vol. 39, No. 1 (Jan 2021); [*online appendix*](/files/btb_online_appendix_0418.pdf)
+*Journal of Labor Economics*, Vol. 39, No. 1 (Jan 2021); [*online appendix*](/files/btb_jole_appx.pdf)
 
 [**The Rise and Fall of Female Labor Force Participation During World War II in the United States**](/files/rise_and_fall.pdf)  
 *The Journal of Economic History*, Vol. 78, No. 3 (Sep 2018); [*online appendix*](/files/rise_and_fall_online_appendix.pdf); [*replication archive*](https://www.dropbox.com/s/fq3c530ngw8443g/replication_full.zip?dl=1)
