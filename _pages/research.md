@@ -15,9 +15,6 @@ Revision requested, *Journal of Public Economics*; [NBER version](https://www.nb
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
 Working paper; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/How-Replaceable-Is-a-Low-Wage-Job.pdf)     
 
-[**The Impact of Incarceration on Employment, Earnings, and Tax Filing**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
-Revision requested, *Econometrica*; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf); [related podcast](https://bfi.uchicago.edu/podcast/many-us-prisoners-do-return-to-society-what-job-and-earning-prospects-await-them/)        
-
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Under review; [NBER version](https://www.nber.org/papers/w30274)   
 
@@ -26,6 +23,9 @@ Revision in progress
 
 
 ## Published and accepted work
+[**The Impact of Incarceration on Employment, Earnings, and Tax Filing**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
+Accepted, *Econometrica*; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf); [related podcast](https://bfi.uchicago.edu/podcast/many-us-prisoners-do-return-to-society-what-job-and-earning-prospects-await-them/)        
+
 [**A Discrimination Report Card**](/files/report_cards.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
 Forthcoming, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
 Coverage: [NYT](https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html)    
