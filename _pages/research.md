@@ -27,7 +27,7 @@ Accepted, *Journal of Public Economics*; [NBER version](https://www.nber.org/pap
 Accepted, *Econometrica*; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf); [related podcast](https://bfi.uchicago.edu/podcast/many-us-prisoners-do-return-to-society-what-job-and-earning-prospects-await-them/)        
 
 [**A Discrimination Report Card**](/files/report_cards.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-Forthcoming, *American Economic Review*; [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
+Forthcoming, *American Economic Review*; [*online appendix*](/files/report_cards_appendix.pdf); [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
 Coverage: [NYT](https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html)    
 
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
