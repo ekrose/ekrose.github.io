@@ -29,13 +29,13 @@ Accepted, *Econometrica*; [non-technical summary](https://bfi.uchicago.edu/wp-co
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Forthcoming, *The Review of Economics and Statistics*    
 
-[**A Discrimination Report Card**](/files/report_cards.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
-*American Economic Review*, Vol. 114, No. 8 (2024); [*online appendix*](/files/report_cards_appendix.pdf); [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
-Coverage: [NYT](https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html)    
-
 [**Family Formation and Crime**](/files/familyformationandcrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
-*American Economic Journal: Applied Economics*, Vol. 16, No. 4 (2024); [NBER version](https://www.nber.org/papers/w30385)  
+*American Economic Journal: Applied Economics*, Vol. 16, No. 4 (Oct 2024); [NBER version](https://www.nber.org/papers/w30385)  
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html), [Mother Jones](https://www.motherjones.com/kevin-drum/2019/11/having-a-baby-cuts-crime-by-25/), [The Economist](https://www.economist.com/graphic-detail/2020/01/03/the-prospect-of-parenthood-makes-people-more-law-abiding)
+
+[**A Discrimination Report Card**](/files/report_cards.pdf) with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)   
+*American Economic Review*, Vol. 114, No. 8 (Aug 2024); [*online appendix*](/files/report_cards_appendix.pdf); [*DRrank*](https://github.com/ekrose/drrank) package; [arXiv version](https://arxiv.org/abs/2306.13005); [NBER version](https://www.nber.org/papers/w32313); [*replication archive*](https://www.openicpsr.org/openicpsr/project/198284/version/V1/view)        
+Coverage: [NYT](https://www.nytimes.com/2024/04/08/upshot/employment-discrimination-fake-resumes.html)    
 
 [**The Effect of Combat Deployments on Veterans' Outcomes**](/files/deployments.pdf) with [Jesse Bruhn](https://www.jessebruhn.com/home), [Kyle Greenberg](https://sites.google.com/view/kyle-greenberg/home), [Matthew Gudgeon](https://sites.google.com/site/matthewgudgeon/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 *Journal of Political Economy*, Vol. 132, No. 8 (Aug 2024);  [NBER version](https://www.nber.org/papers/w30622)  
