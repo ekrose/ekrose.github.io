@@ -23,11 +23,11 @@ Revision in progress
 [**Laffer's Day in Court: The Revenue Effects of Criminal Justice Fees and Fines**](/files/laffer.pdf) with [Samuel Norris](https://www.samuel-norris.com/)  
 Accepted, *Journal of Public Economics*; [NBER version](https://www.nber.org/papers/w31806?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg9)       
 
-[**The Impact of Incarceration on Employment, Earnings, and Tax Filing**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
-Accepted, *Econometrica*; [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf); [related podcast](https://bfi.uchicago.edu/podcast/many-us-prisoners-do-return-to-society-what-job-and-earning-prospects-await-them/)        
-
 [**On Recoding Ordered Treatments as Binary Indicators**](http://arxiv.org/abs/2111.12258) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
 Forthcoming, *The Review of Economics and Statistics*    
+
+[**The Impact of Incarceration on Employment, Earnings, and Tax Filing**](/files/incar_lm.pdf) with [Andrew Garin](https://sites.google.com/view/andygarin/home), [Dmitri Koustas](http://www.dmitrikoustas.com/), [Carl McPherson](https://carlmcpherson.github.io/), [Samuel Norris](https://www.samuel-norris.com/), [Matthew Pecenco](https://www.matthewpecenco.com/), [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html), and [Jeffrey Weaver](https://www.jeff-weaver.com/)  
+*Econometrica*, Vol. 93, No. 2 (Mar 2025); [*online appendix*](https://www.econometricsociety.org/publications/econometrica/2025/03/01/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing/supp/22028SUPP.pdf); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf); [related podcast](https://bfi.uchicago.edu/podcast/many-us-prisoners-do-return-to-society-what-job-and-earning-prospects-await-them/)        
 
 [**Family Formation and Crime**](/files/familyformationandcrime.pdf) with [Maxim Massenkoff](http://maximmassenkoff.com)  
 *American Economic Journal: Applied Economics*, Vol. 16, No. 4 (Oct 2024); [NBER version](https://www.nber.org/papers/w30385)  
