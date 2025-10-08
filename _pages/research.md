@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Works in progress 
-[**Firm Premia and Match Effects in Pay vs. Amenities**](http://andershumlum.com/s/premia.pdf) with [Anders Humlum](https://www.andershumlum.com/) and [Mette Rasmussen](https://sites.google.com/view/mette-rasmussen/home)  
+[**Firm Premia and Match Effects in Pay vs. Amenities**](https://andershumlum.com/s/premia.pdf) with [Anders Humlum](https://www.andershumlum.com/) and [Mette Rasmussen](https://sites.google.com/view/mette-rasmussen/home)  
 Under review; [NBER version](https://www.nber.org/papers/w33884)  
 
 [**How Replaceable Is a Low-Wage Job?**](/files/lowwage_rs.pdf) with [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)   
