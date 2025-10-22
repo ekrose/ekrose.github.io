@@ -16,7 +16,7 @@ Under review; [NBER version](https://www.nber.org/papers/w33884)
 Revision requested, *Review of Economic Studies*; [NBER version](https://www.nber.org/papers/w31447); [non-technical summary](https://bfi.uchicago.edu/wp-content/uploads/2023/08/How-Replaceable-Is-a-Low-Wage-Job.pdf)     
 
 [**The Effects of Teacher Quality on Adult Criminal Justice Contact**](/files/rss_teachers_cjc.pdf) with [Jonathan Schellenberg](https://sites.google.com/view/jonathanschellenberg/home?authuser=0) and [Yotam Shem-Tov](https://yotamshemtov.github.io/index.html)  
-Revision requested, *Econometrica*; [NBER version](https://www.nber.org/papers/w30274)   
+Revision requested, *Econometrica*; [NBER version](https://www.nber.org/papers/w30274); [python package for estimator](https://pypi.org/project/ustat-var/)     
 
 [**The Effects of Job Loss on Crime: Evidence from Administrative Data**](/files/jobloss_crime_ekr_vf.pdf)  
 Revision in progress  
