@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 570" role="img" aria-labelledby="title desc">
+<title id="title">Horses, mules, and automobile registrations</title>
+<desc id="desc">Dual-axis chart showing horses and mules on the left axis and automobile registrations on the right axis. Initial data are shown through 1908.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;fill:#1f2933}.title{font-size:27px;font-weight:700}.subtitle{font-size:14px;fill:#556171}.axis{font-size:13px;fill:#374151}.source{font-size:11px;fill:#4b5563}.legend{font-size:15px;fill:#1f2933}.axis-left{fill:#245c75}.axis-right{fill:#9b2c2c}</style>
+<text class="title" x="88" y="42">Horses and mules vs. automobile registrations</text>
+<line x1="88" y1="78" x2="112" y2="78" stroke="#245c75" stroke-width="4" stroke-linecap="round"/>
+<text class="legend" x="122" y="83">Horses and mules</text>
+<line x1="340" y1="78" x2="374" y2="78" stroke="#9b2c2c" stroke-width="4" stroke-linecap="round"/>
+<text class="legend" x="384" y="83">Automobile registrations</text>
+<line x1="88" y1="488.0" x2="1028" y2="488.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="492.0" text-anchor="end">0</text>
+<line x1="88" y1="419.7" x2="1028" y2="419.7" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="423.7" text-anchor="end">4</text>
+<line x1="88" y1="351.3" x2="1028" y2="351.3" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="355.3" text-anchor="end">8</text>
+<line x1="88" y1="283.0" x2="1028" y2="283.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="287.0" text-anchor="end">12</text>
+<line x1="88" y1="214.7" x2="1028" y2="214.7" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="218.7" text-anchor="end">16</text>
+<line x1="88" y1="146.3" x2="1028" y2="146.3" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="150.3" text-anchor="end">20</text>
+<line x1="88" y1="78.0" x2="1028" y2="78.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis axis-left" x="76" y="82.0" text-anchor="end">24</text>
+<text class="axis axis-right" x="1040" y="492.0">0</text>
+<text class="axis axis-right" x="1040" y="389.5">4</text>
+<text class="axis axis-right" x="1040" y="287.0">8</text>
+<text class="axis axis-right" x="1040" y="184.5">12</text>
+<text class="axis axis-right" x="1040" y="82.0">16</text>
+<line x1="88" y1="78" x2="88" y2="488" stroke="#245c75" stroke-width="1.3"/>
+<line x1="1028" y1="78" x2="1028" y2="488" stroke="#9b2c2c" stroke-width="1.3"/>
+<line x1="88" y1="488" x2="1028" y2="488" stroke="#4b5563" stroke-width="1.1"/>
+<text class="axis axis-left" x="24" y="283.0" transform="rotate(-90 24 283.0)" text-anchor="middle">Horses and mules, millions</text>
+<text class="axis axis-right" x="1096" y="283.0" transform="rotate(90 1096 283.0)" text-anchor="middle">Automobile registrations, millions</text>
+<line x1="88.0" y1="488" x2="88.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="88.0" y="516" text-anchor="middle">1840</text>
+<line x1="314.5" y1="488" x2="314.5" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="314.5" y="516" text-anchor="middle">1860</text>
+<line x1="541.0" y1="488" x2="541.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="541.0" y="516" text-anchor="middle">1880</text>
+<line x1="767.5" y1="488" x2="767.5" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="767.5" y="516" text-anchor="middle">1900</text>
+<line x1="858.1" y1="488" x2="858.1" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="858.1" y="516" text-anchor="middle">1908</text>
+<line x1="994.0" y1="488" x2="994.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="994.0" y="516" text-anchor="middle">1920</text>
+<line x1="1028.0" y1="488" x2="1028.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="1028.0" y="516" text-anchor="middle">1923</text>
+<line x1="858.1" y1="78" x2="858.1" y2="488" stroke="#111827" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text class="axis" x="850.1" y="94" text-anchor="end">1908</text>
+<polyline fill="none" stroke="#245c75" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="88.0,413.9 201.3,413.9 314.5,361.0 427.8,339.5 541.0,311.1 654.3,227.2 767.5,137.3"/>
+<circle cx="88.0" cy="413.9" r="4" fill="#245c75"/>
+<circle cx="201.3" cy="413.9" r="4" fill="#245c75"/>
+<circle cx="314.5" cy="361.0" r="4" fill="#245c75"/>
+<circle cx="427.8" cy="339.5" r="4" fill="#245c75"/>
+<circle cx="541.0" cy="311.1" r="4" fill="#245c75"/>
+<circle cx="654.3" cy="227.2" r="4" fill="#245c75"/>
+<circle cx="767.5" cy="137.3" r="4" fill="#245c75"/>
+<polyline fill="none" stroke="#9b2c2c" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="710.9,488.0 722.2,488.0 733.5,487.9 744.9,487.9 756.2,487.8 767.5,487.6 778.8,487.5 790.2,487.3 801.5,487.0 812.8,486.5 824.1,486.0 835.5,485.3 846.8,484.4 858.1,482.9"/>
+<circle cx="710.9" cy="488.0" r="4" fill="#9b2c2c"/>
+<circle cx="722.2" cy="488.0" r="4" fill="#9b2c2c"/>
+<circle cx="733.5" cy="487.9" r="4" fill="#9b2c2c"/>
+<circle cx="744.9" cy="487.9" r="4" fill="#9b2c2c"/>
+<circle cx="756.2" cy="487.8" r="4" fill="#9b2c2c"/>
+<circle cx="767.5" cy="487.6" r="4" fill="#9b2c2c"/>
+<circle cx="778.8" cy="487.5" r="4" fill="#9b2c2c"/>
+<circle cx="790.2" cy="487.3" r="4" fill="#9b2c2c"/>
+<circle cx="801.5" cy="487.0" r="4" fill="#9b2c2c"/>
+<circle cx="812.8" cy="486.5" r="4" fill="#9b2c2c"/>
+<circle cx="824.1" cy="486.0" r="4" fill="#9b2c2c"/>
+<circle cx="835.5" cy="485.3" r="4" fill="#9b2c2c"/>
+<circle cx="846.8" cy="484.4" r="4" fill="#9b2c2c"/>
+<circle cx="858.1" cy="482.9" r="4" fill="#9b2c2c"/>
+<text class="source" x="88" y="546">Source: historical series supplied by Evan Rose. Initial view shows observations available through 1908.</text>
+</svg>

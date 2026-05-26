@@ -178,7 +178,7 @@
         display: block;
         margin: 0.75em 0 0;
         max-height: 390px;
-        padding: 0.28em;
+        padding: 0;
         width: 100%;
       }
 
@@ -200,22 +200,36 @@
         max-height: none;
       }
 
+      .reveal .history-chart-slide .chart {
+        margin-top: 0.45em;
+        max-height: 435px;
+      }
+
       .reveal .chart-stack {
+        background: #ffffff;
+        border: 1px solid var(--rule);
+        border-radius: 8px;
         box-sizing: border-box;
         margin-top: 0.8em;
         max-width: 1040px;
+        padding: 0;
         position: relative;
         width: 100%;
       }
 
       .reveal .chart-stack .chart {
+        background: transparent;
+        border: 0;
+        border-radius: 0;
         display: block;
+        margin: 0;
+        max-height: none;
+        padding: 0;
         width: 100%;
       }
 
       .reveal .chart-stack .chart-overlay {
         background: transparent;
-        border-color: transparent;
         left: 0;
         position: absolute;
         top: 0;
@@ -460,8 +474,8 @@
         <section class="value-chart-slide">
           <h2>Where Is The Value Showing Up?</h2>
           <div class="chart-stack">
-            <img class="chart" src="assets/fred-output-base.svg" alt="FRED nonfarm business sector output per hour from 2016 through 2026.">
-            <img class="chart chart-overlay fragment" src="assets/fred-output-overlay.svg" alt="FRED nonfarm business sector real output from 2016 through 2026.">
+            <img class="chart" src="assets/fred-output-base.svg" alt="FRED nonfarm business sector output per hour from 2018 through 2026.">
+            <img class="chart chart-overlay fragment" src="assets/fred-output-overlay.svg" alt="FRED nonfarm business sector real output from 2018 through 2026.">
             <img class="chart chart-overlay fragment" src="assets/fred-hours-overlay.svg" alt="FRED nonfarm business sector hours from 2018 through 2026.">
           </div>
         </section>
@@ -476,19 +490,25 @@
           <p class="takeaway">It is hard to expect major labor-market shifts before firms have figured out how to reliably capture the productivity boost.</p>
         </section>
 
-        <section>
+        <section class="history-chart-slide">
           <p class="section-label">3. Would We Know It When We Saw It?</p>
-          <h2>Diffusion Can Be Slow Even When The Advantage Is Clear</h2>
-          <ul>
-            <li>The Ford Model T rolled off the line in 1908.</li>
-            <li>Carriage and wagon employment did not immediately crater.</li>
-            <li>The horse and mule population peaked between 1910 and 1920.</li>
-            <li>In 1920, there were still about twice as many horses as automobile registrations.</li>
-          </ul>
+          <h2>Imagine It Is 1908</h2>
+          <div class="chart-stack">
+            <img class="chart" src="assets/horses-autos-base.svg" alt="Horse and mule population and automobile registrations through 1908 on a full 1840 to 1923 x-axis.">
+            <img class="chart chart-overlay fragment" src="assets/horses-autos-overlay.svg" alt="Horse and mule population and automobile registrations after 1908.">
+          </div>
+        </section>
+
+        <section class="history-chart-slide">
+          <h2>Carriages, Wagons, And Automobiles</h2>
+          <div class="chart-stack">
+            <img class="chart" src="assets/carriage-auto-employment-base.svg" alt="Employment in carriages and wagons and automobiles, bodies, and parts through 1904.">
+            <img class="chart chart-overlay fragment" src="assets/carriage-auto-employment-overlay.svg" alt="Employment in carriages and wagons and automobiles, bodies, and parts after 1904.">
+          </div>
         </section>
 
         <section>
-          <h2>Even Obvious Cost Advantages Do Not Guarantee Instant Transition</h2>
+          <h2>Productivity Advantage Obvious By 1920</h2>
           <p>Census estimates for spring plowing costs per acre:</p>
           <div class="two-column">
             <div>
@@ -500,7 +520,11 @@
               <p>Tractor</p>
             </div>
           </div>
-          <p class="takeaway">Maybe generative AI will diffuse faster. But maybe not. Complementary investments, institutions, and adjustment frictions matter.</p>
+          <ul>
+            <li>Yet the horse and mule population peaked somewhere between 1910 and 1920.</li>
+            <li>Still 2x as many horses in 1920 as there were automobile registrations.</li>
+          </ul>
+          <p class="takeaway">Yes, maybe gen-AI will be faster than the auto transition, but also maybe not? It's a lot easier to lay off your horse than a human.</p>
         </section>
 
         <section>

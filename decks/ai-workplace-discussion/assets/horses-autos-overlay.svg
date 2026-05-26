@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 570" aria-hidden="true">
+<style>text{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;fill:#1f2933}.title{font-size:27px;font-weight:700}.subtitle{font-size:14px;fill:#556171}.axis{font-size:13px;fill:#374151}.source{font-size:11px;fill:#4b5563}.legend{font-size:15px;fill:#1f2933}.axis-left{fill:#245c75}.axis-right{fill:#9b2c2c}</style>
+<polyline fill="none" stroke="#245c75" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="767.5,137.3 880.8,100.2 994.0,131.7"/>
+<circle cx="880.8" cy="100.2" r="4" fill="#245c75"/>
+<circle cx="994.0" cy="131.7" r="4" fill="#245c75"/>
+<polyline fill="none" stroke="#9b2c2c" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="858.1,482.9 869.4,480.0 880.8,476.0 892.1,471.6 903.4,463.8 914.7,455.8 926.1,444.1 937.4,425.3 948.7,398.0 960.0,360.3 971.4,330.5 982.7,294.1 994.0,251.4 1005.3,219.9 1016.7,174.4 1028.0,101.3"/>
+<circle cx="869.4" cy="480.0" r="4" fill="#9b2c2c"/>
+<circle cx="880.8" cy="476.0" r="4" fill="#9b2c2c"/>
+<circle cx="892.1" cy="471.6" r="4" fill="#9b2c2c"/>
+<circle cx="903.4" cy="463.8" r="4" fill="#9b2c2c"/>
+<circle cx="914.7" cy="455.8" r="4" fill="#9b2c2c"/>
+<circle cx="926.1" cy="444.1" r="4" fill="#9b2c2c"/>
+<circle cx="937.4" cy="425.3" r="4" fill="#9b2c2c"/>
+<circle cx="948.7" cy="398.0" r="4" fill="#9b2c2c"/>
+<circle cx="960.0" cy="360.3" r="4" fill="#9b2c2c"/>
+<circle cx="971.4" cy="330.5" r="4" fill="#9b2c2c"/>
+<circle cx="982.7" cy="294.1" r="4" fill="#9b2c2c"/>
+<circle cx="994.0" cy="251.4" r="4" fill="#9b2c2c"/>
+<circle cx="1005.3" cy="219.9" r="4" fill="#9b2c2c"/>
+<circle cx="1016.7" cy="174.4" r="4" fill="#9b2c2c"/>
+<circle cx="1028.0" cy="101.3" r="4" fill="#9b2c2c"/>
+</svg>

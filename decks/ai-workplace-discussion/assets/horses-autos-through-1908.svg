@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 570" role="img" aria-labelledby="title desc">
+<title id="title">Horse and mule population and automobile registrations through 1908</title>
+<desc id="desc">Two-panel chart showing horse and mule population through 1900 and automobile registrations through 1908.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;fill:#1f2933}.title{font-size:27px;font-weight:700}.subtitle{font-size:14px;fill:#556171}.panel{font-size:17px;font-weight:700}.axis{font-size:13px;fill:#374151}.source{font-size:11px;fill:#4b5563}</style>
+<text class="title" x="86" y="36">What Would You See In 1908?</text>
+<text class="subtitle" x="86" y="60">Horse and mule population vs. automobile registrations, data available through 1908</text>
+<text class="panel" x="86" y="88">Horses and mules</text>
+<line x1="86" y1="254.0" x2="1088" y2="254.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="258.0" text-anchor="end">0</text>
+<line x1="86" y1="219.9" x2="1088" y2="219.9" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="223.9" text-anchor="end">5</text>
+<line x1="86" y1="185.8" x2="1088" y2="185.8" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="189.8" text-anchor="end">10</text>
+<line x1="86" y1="151.7" x2="1088" y2="151.7" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="155.7" text-anchor="end">15</text>
+<line x1="86" y1="117.6" x2="1088" y2="117.6" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="121.6" text-anchor="end">20</text>
+<text class="axis" x="24" y="179.0" transform="rotate(-90 24 179.0)" text-anchor="middle">Millions</text>
+<line x1="86" y1="104" x2="86" y2="254" stroke="#4b5563" stroke-width="1.1"/>
+<line x1="86" y1="254" x2="1088" y2="254" stroke="#4b5563" stroke-width="1.1"/>
+<line x1="1088.0" y1="104" x2="1088.0" y2="254" stroke="#111827" stroke-width="1.2" stroke-dasharray="5 5"/>
+<polyline fill="none" stroke="#245c75" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="86.0,224.4 233.4,224.4 380.7,203.3 528.1,194.7 675.4,183.4 822.8,149.9 970.1,114.0"/>
+<circle cx="86.0" cy="224.4" r="4" fill="#245c75"/>
+<circle cx="233.4" cy="224.4" r="4" fill="#245c75"/>
+<circle cx="380.7" cy="203.3" r="4" fill="#245c75"/>
+<circle cx="528.1" cy="194.7" r="4" fill="#245c75"/>
+<circle cx="675.4" cy="183.4" r="4" fill="#245c75"/>
+<circle cx="822.8" cy="149.9" r="4" fill="#245c75"/>
+<circle cx="970.1" cy="114.0" r="4" fill="#245c75"/>
+<text class="panel" x="86" y="326">Automobile registrations</text>
+<line x1="86" y1="472.0" x2="1088" y2="472.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="476.0" text-anchor="end">0</text>
+<line x1="86" y1="442.5" x2="1088" y2="442.5" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="446.5" text-anchor="end">50</text>
+<line x1="86" y1="412.9" x2="1088" y2="412.9" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="416.9" text-anchor="end">100</text>
+<line x1="86" y1="383.4" x2="1088" y2="383.4" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="387.4" text-anchor="end">150</text>
+<line x1="86" y1="353.8" x2="1088" y2="353.8" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="74" y="357.8" text-anchor="end">200</text>
+<text class="axis" x="24" y="407.0" transform="rotate(-90 24 407.0)" text-anchor="middle">Thousands</text>
+<line x1="86" y1="342" x2="86" y2="472" stroke="#4b5563" stroke-width="1.1"/>
+<line x1="86" y1="472" x2="1088" y2="472" stroke="#4b5563" stroke-width="1.1"/>
+<line x1="1088.0" y1="342" x2="1088.0" y2="472" stroke="#111827" stroke-width="1.2" stroke-dasharray="5 5"/>
+<polyline fill="none" stroke="#9b2c2c" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="896.4,471.8 911.2,471.5 925.9,470.8 940.6,469.3 955.4,466.9 970.1,463.8 984.9,459.8 999.6,455.0 1014.3,449.5 1029.1,437.8 1043.8,425.9 1058.5,408.8 1073.3,388.1 1088.0,355.3"/>
+<circle cx="896.4" cy="471.8" r="4" fill="#9b2c2c"/>
+<circle cx="911.2" cy="471.5" r="4" fill="#9b2c2c"/>
+<circle cx="925.9" cy="470.8" r="4" fill="#9b2c2c"/>
+<circle cx="940.6" cy="469.3" r="4" fill="#9b2c2c"/>
+<circle cx="955.4" cy="466.9" r="4" fill="#9b2c2c"/>
+<circle cx="970.1" cy="463.8" r="4" fill="#9b2c2c"/>
+<circle cx="984.9" cy="459.8" r="4" fill="#9b2c2c"/>
+<circle cx="999.6" cy="455.0" r="4" fill="#9b2c2c"/>
+<circle cx="1014.3" cy="449.5" r="4" fill="#9b2c2c"/>
+<circle cx="1029.1" cy="437.8" r="4" fill="#9b2c2c"/>
+<circle cx="1043.8" cy="425.9" r="4" fill="#9b2c2c"/>
+<circle cx="1058.5" cy="408.8" r="4" fill="#9b2c2c"/>
+<circle cx="1073.3" cy="388.1" r="4" fill="#9b2c2c"/>
+<circle cx="1088.0" cy="355.3" r="4" fill="#9b2c2c"/>
+<line x1="86.0" y1="472" x2="86.0" y2="479" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="86.0" y="499" text-anchor="middle">1840</text>
+<line x1="380.7" y1="472" x2="380.7" y2="479" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="380.7" y="499" text-anchor="middle">1860</text>
+<line x1="675.4" y1="472" x2="675.4" y2="479" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="675.4" y="499" text-anchor="middle">1880</text>
+<line x1="970.1" y1="472" x2="970.1" y2="479" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="970.1" y="499" text-anchor="middle">1900</text>
+<line x1="1088.0" y1="472" x2="1088.0" y2="479" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="1088.0" y="499" text-anchor="middle">1908</text>
+<text class="axis" x="1080.0" y="118" text-anchor="end">1908</text>
+<text class="source" x="86" y="546">Source: historical series supplied by Evan Rose. Automobile registrations shown through 1908; horse and mule census observations shown through 1900.</text>
+</svg>
