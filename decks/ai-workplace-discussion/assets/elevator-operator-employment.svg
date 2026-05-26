@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 570" role="img" aria-labelledby="title desc">
+<title id="title">Elevator operator employment, 1870-1990</title>
+<desc id="desc">Line chart showing total U.S. elevator operator employment from 1870 through 1990, rising to 114,473 in 1950 before falling to roughly 56,000 in 1960, 28,000 in 1970, 15,000 in 1980, and essentially zero by 1990.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;fill:#1f2933}.title{font-size:28px;font-weight:700}.subtitle{font-size:14px;fill:#556171}.axis{font-size:14px;fill:#374151}.source{font-size:12px;fill:#4b5563}.label{font-size:14px;font-weight:700;fill:#245c75}.annotation{font-size:13px;fill:#374151}.value{font-size:13px;font-weight:700;fill:#245c75}</style>
+<text class="title" x="88" y="42">Elevator operator employment rose, then fell</text>
+<text class="subtitle" x="88" y="66">U.S. elevator operators, selected census years</text>
+<line x1="88" y1="488.0" x2="1028" y2="488.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="492.0" text-anchor="end">0</text>
+<line x1="88" y1="419.7" x2="1028" y2="419.7" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="423.7" text-anchor="end">20</text>
+<line x1="88" y1="351.3" x2="1028" y2="351.3" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="355.3" text-anchor="end">40</text>
+<line x1="88" y1="283.0" x2="1028" y2="283.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="287.0" text-anchor="end">60</text>
+<line x1="88" y1="214.7" x2="1028" y2="214.7" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="218.7" text-anchor="end">80</text>
+<line x1="88" y1="146.3" x2="1028" y2="146.3" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="150.3" text-anchor="end">100</text>
+<line x1="88" y1="78.0" x2="1028" y2="78.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="76" y="82.0" text-anchor="end">120</text>
+<line x1="88" y1="78" x2="88" y2="488" stroke="#4b5563" stroke-width="1.2"/>
+<line x1="88" y1="488" x2="1028" y2="488" stroke="#4b5563" stroke-width="1.2"/>
+<text class="axis" x="24" y="283.0" transform="rotate(-90 24 283.0)" text-anchor="middle">Elevator operators, thousands</text>
+<line x1="88.0" y1="488" x2="88.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="88.0" y="516" text-anchor="middle">1870</text>
+<line x1="323.0" y1="488" x2="323.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="323.0" y="516" text-anchor="middle">1900</text>
+<line x1="558.0" y1="488" x2="558.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="558.0" y="516" text-anchor="middle">1930</text>
+<line x1="714.7" y1="488" x2="714.7" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="714.7" y="516" text-anchor="middle">1950</text>
+<line x1="793.0" y1="488" x2="793.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="793.0" y="516" text-anchor="middle">1960</text>
+<line x1="871.3" y1="488" x2="871.3" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="871.3" y="516" text-anchor="middle">1970</text>
+<line x1="949.7" y1="488" x2="949.7" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="949.7" y="516" text-anchor="middle">1980</text>
+<line x1="1028.0" y1="488" x2="1028.0" y2="495" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="1028.0" y="516" text-anchor="middle">1990</text>
+<line x1="565.8" y1="78" x2="565.8" y2="488" stroke="#111827" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text class="annotation" x="577" y="93">1931: Empire State Building</text>
+<text class="annotation" x="577" y="111">automatic/signal-control system</text>
+<polyline fill="none" stroke="#245c75" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" points="88.0,486.3 166.3,451.0 323.0,415.2 401.3,361.4 479.7,243.8 558.0,194.5 636.3,154.2 714.7,96.9 793.0,297.6 871.3,392.8 949.7,437.6 1028.0,488.0"/>
+<circle cx="88.0" cy="486.3" r="4.5" fill="#245c75"/>
+<circle cx="166.3" cy="451.0" r="4.5" fill="#245c75"/>
+<circle cx="323.0" cy="415.2" r="4.5" fill="#245c75"/>
+<circle cx="401.3" cy="361.4" r="4.5" fill="#245c75"/>
+<circle cx="479.7" cy="243.8" r="4.5" fill="#245c75"/>
+<circle cx="558.0" cy="194.5" r="4.5" fill="#245c75"/>
+<circle cx="636.3" cy="154.2" r="4.5" fill="#245c75"/>
+<circle cx="714.7" cy="96.9" r="4.5" fill="#245c75"/>
+<circle cx="793.0" cy="297.6" r="4.5" fill="#245c75"/>
+<circle cx="871.3" cy="392.8" r="4.5" fill="#245c75"/>
+<circle cx="949.7" cy="437.6" r="4.5" fill="#245c75"/>
+<circle cx="1028.0" cy="488.0" r="4.5" fill="#245c75"/>
+<text class="value" x="720" y="84" text-anchor="middle">114,473</text>
+<text class="value" x="801" y="285">~56k</text>
+<text class="value" x="879" y="380">~28k</text>
+<text class="value" x="958" y="425">~15k</text>
+<text class="value" x="1028" y="472" text-anchor="end">~0</text>
+<text class="source" x="88" y="546">Source: ITIF analysis of IPUMS occupation data. Post-1950 values are approximate, digitized from ITIF's published figure.</text>
+</svg>
