@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 570" aria-hidden="true">
+<style>text{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;fill:#1f2933}.title{font-size:27px;font-weight:700}.subtitle{font-size:14px;fill:#556171}.axis{font-size:14px;fill:#374151}.source{font-size:11px;fill:#4b5563}.legend{font-size:15px;fill:#1f2933}</style>
+<line x1="520" y1="78" x2="554" y2="78" stroke="#556171" stroke-width="4" stroke-linecap="round"/>
+<text class="legend" x="564" y="83">Hours</text>
+<polyline fill="none" stroke="#556171" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" points="78.0,342.3 109.0,338.0 140.4,334.1 172.2,331.3 203.9,331.0 235.0,328.2 266.4,325.7 298.1,327.7 329.8,340.9 361.2,461.8 392.6,398.9 424.3,380.9 456.1,372.2 487.1,357.0 518.5,344.1 550.3,330.9 582.0,324.6 613.0,318.0 644.4,312.0 676.2,310.3 707.9,305.9 739.0,308.4 770.4,307.5 802.1,308.1 833.8,308.1 865.2,307.5 896.6,307.1 928.3,306.5 960.1,306.5 991.1,304.3 1022.5,303.9 1054.3,304.4 1086.0,302.8"/>
+</svg>

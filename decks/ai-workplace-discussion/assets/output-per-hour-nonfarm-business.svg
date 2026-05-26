@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="img" aria-labelledby="title desc">
+<title id="title">Output Per Hour</title>
+<desc id="desc">Line chart of FRED series OPHNFB, nonfarm business sector output per hour, over the last 10 years.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Helvetica Neue,Helvetica,Arial,sans-serif;fill:#1f2933}.title{font-size:25px;font-weight:700}.subtitle{font-size:13px;fill:#556171}.axis{font-size:13px;fill:#374151}.source{font-size:10.5px;fill:#4b5563}</style>
+<text class="title" x="62" y="32">Output Per Hour</text>
+<text class="subtitle" x="62" y="53">Nonfarm business sector, index 2017 = 100</text>
+<line x1="62" y1="422.0" x2="738" y2="422.0" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="52" y="426.0" text-anchor="end">98</text>
+<line x1="62" y1="358.4" x2="738" y2="358.4" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="52" y="362.4" text-anchor="end">102</text>
+<line x1="62" y1="294.7" x2="738" y2="294.7" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="52" y="298.7" text-anchor="end">106</text>
+<line x1="62" y1="231.1" x2="738" y2="231.1" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="52" y="235.1" text-anchor="end">110</text>
+<line x1="62" y1="167.5" x2="738" y2="167.5" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="52" y="171.5" text-anchor="end">114</text>
+<line x1="62" y1="103.8" x2="738" y2="103.8" stroke="#e5e7eb" stroke-width="1"/>
+<text class="axis" x="52" y="107.8" text-anchor="end">118</text>
+<line x1="62" y1="72" x2="62" y2="422" stroke="#4b5563" stroke-width="1.1"/>
+<line x1="62" y1="422" x2="738" y2="422" stroke="#4b5563" stroke-width="1.1"/>
+<line x1="62.0" y1="422" x2="62.0" y2="428" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="62.0" y="447" text-anchor="middle">2016</text>
+<line x1="197.3" y1="422" x2="197.3" y2="428" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="197.3" y="447" text-anchor="middle">2018</text>
+<line x1="332.4" y1="422" x2="332.4" y2="428" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="332.4" y="447" text-anchor="middle">2020</text>
+<line x1="467.6" y1="422" x2="467.6" y2="428" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="467.6" y="447" text-anchor="middle">2022</text>
+<line x1="602.7" y1="422" x2="602.7" y2="428" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="602.7" y="447" text-anchor="middle">2024</text>
+<line x1="738.0" y1="422" x2="738.0" y2="428" stroke="#4b5563" stroke-width="1"/>
+<text class="axis" x="738.0" y="447" text-anchor="middle">2026</text>
+<polyline fill="none" stroke="#245c75" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="62.0,418.7 78.8,417.8 95.7,412.4 112.7,401.8 129.7,399.2 146.4,398.4 163.2,385.5 180.2,373.8 197.3,368.6 213.9,368.4 230.8,363.6 247.8,366.5 264.8,353.0 281.5,342.9 298.3,324.5 315.3,309.0 332.4,315.7 349.2,234.7 366.0,207.4 383.1,221.6 400.1,208.9 416.7,205.2 433.6,216.0 450.6,206.0 467.6,228.3 484.3,241.3 501.1,240.3 518.2,230.3 535.2,226.3 551.8,208.8 568.7,186.8 585.7,169.3 602.7,168.3 619.6,151.7 636.4,135.1 653.4,128.6 670.5,132.7 687.1,113.6 704.0,89.8 721.0,82.3 738.0,78.7"/>
+<text class="source" x="62" y="474">Source: FRED, Federal Reserve Bank of St. Louis, OPHNFB. Downloaded May 26, 2026.</text>
+</svg>

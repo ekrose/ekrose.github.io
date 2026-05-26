@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow">
-    <title>AI Workplace Discussion</title>
+    <title>Early Warning Signs and the Transition</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reset.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
@@ -12,150 +12,558 @@
 
     <style>
       :root {
+        --r-background-color: #fbfcfd;
         --r-main-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        --r-main-font-size: 30px;
         --r-heading-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        --r-heading-text-transform: none;
         --r-heading-letter-spacing: 0;
+        --r-heading-text-transform: none;
         --r-link-color: #245c75;
         --r-selection-background-color: #d9ebe7;
+        --ink: #18212b;
+        --muted: #556171;
+        --rule: #d9e0e8;
+        --accent: #245c75;
+        --accent-soft: #edf6f5;
       }
 
       .reveal {
-        color: #1f2933;
+        color: var(--ink);
+      }
+
+      .reveal .slides {
+        text-align: left;
+      }
+
+      .reveal .slides section {
+        box-sizing: border-box;
+        padding: 38px 58px;
       }
 
       .reveal h1,
       .reveal h2,
       .reveal h3 {
-        color: #111827;
+        color: #101820;
         font-weight: 700;
+        letter-spacing: 0;
+        line-height: 1.08;
+        margin: 0 0 0.55em;
+        text-align: left;
       }
 
       .reveal h1 {
-        font-size: 2.6em;
+        font-size: 2.05em;
+        max-width: 920px;
       }
 
       .reveal h2 {
-        font-size: 1.75em;
+        border-bottom: 1px solid var(--rule);
+        font-size: 1.34em;
+        max-width: 1080px;
+        padding-bottom: 0.28em;
       }
 
-      .reveal p,
-      .reveal li {
+      .reveal p {
+        font-size: 0.86em;
         line-height: 1.35;
+        margin: 0.35em 0 0.65em;
+        max-width: 1040px;
       }
 
-      .reveal ul {
-        width: 78%;
+      .reveal ul,
+      .reveal ol {
+        display: block;
+        font-size: 0.92em;
+        line-height: 1.25;
+        margin: 0.65em 0 0;
+        max-width: 1040px;
+        padding-left: 1.35em;
+        width: auto;
+      }
+
+      .reveal ol {
+        padding-left: 1.55em;
+      }
+
+      .reveal li {
+        line-height: 1.28;
+        margin: 0.38em 0;
+        padding-left: 0.12em;
       }
 
       .reveal .subtitle {
-        color: #4b5563;
-        font-size: 0.9em;
-        margin-top: 1.2em;
+        color: var(--muted);
+        font-size: 0.82em;
+        line-height: 1.35;
+        margin-top: 0.9em;
+        text-align: left;
+      }
+
+      .reveal .prompt,
+      .reveal .takeaway {
+        background: var(--accent-soft);
+        border-left: 7px solid var(--accent);
+        border-radius: 0 8px 8px 0;
+        box-sizing: border-box;
+        color: #23313c;
+        font-size: 0.78em;
+        line-height: 1.34;
+        margin: 1.05em 0 0;
+        max-width: 1040px;
+        padding: 0.72em 0.9em;
+        text-align: left;
+        width: 100%;
       }
 
       .reveal .prompt {
-        border-left: 0.22em solid #245c75;
-        color: #374151;
-        font-size: 0.95em;
-        margin: 1.5em auto 0;
-        padding: 0.1em 0 0.1em 0.85em;
+        background: #f4f7fa;
+      }
+
+      .reveal blockquote.quote {
+        background: #ffffff;
+        border-left: 7px solid var(--accent);
+        box-shadow: none;
+        box-sizing: border-box;
+        color: #23313c;
+        font-size: 0.82em;
+        font-style: normal;
+        line-height: 1.32;
+        margin: 0.85em 0;
+        max-width: 1040px;
+        padding: 0.65em 0.9em;
+        width: 100%;
+      }
+
+      .reveal .source-note {
+        color: var(--muted);
+        font-size: 0.58em;
+        line-height: 1.25;
+        margin-top: 0.35em;
+      }
+
+      .reveal .bls-slide blockquote.quote {
+        font-size: 0.66em;
+      }
+
+      .reveal .section-label {
+        color: var(--accent);
+        font-size: 0.58em;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        margin: 0 0 0.7em;
+        text-transform: uppercase;
+      }
+
+      .reveal .placeholder {
+        align-items: center;
+        background: #f4f6f8;
+        border: 2px dashed #a9b4c0;
+        border-radius: 8px;
+        box-sizing: border-box;
+        color: var(--muted);
+        display: flex;
+        font-size: 0.72em;
+        justify-content: center;
+        margin: 1em 0 0;
+        min-height: 260px;
+        padding: 1em;
+        width: 100%;
+      }
+
+      .reveal .chart {
+        background: #ffffff;
+        border: 1px solid var(--rule);
+        border-radius: 8px;
+        box-sizing: border-box;
+        display: block;
+        margin: 0.75em 0 0;
+        max-height: 390px;
+        padding: 0.28em;
+        width: 100%;
+      }
+
+      .reveal img.chart {
+        height: auto;
+        object-fit: contain;
+      }
+
+      .reveal .squinting-slide .chart {
+        max-height: 445px;
+      }
+
+      .reveal .activity-slide .chart {
+        max-height: 430px;
+      }
+
+      .reveal .value-chart-slide .chart {
+        margin-top: 0;
+        max-height: none;
+      }
+
+      .reveal .chart-stack {
+        box-sizing: border-box;
+        margin-top: 0.8em;
+        max-width: 1040px;
+        position: relative;
+        width: 100%;
+      }
+
+      .reveal .chart-stack .chart {
+        display: block;
+        width: 100%;
+      }
+
+      .reveal .chart-stack .chart-overlay {
+        background: transparent;
+        border-color: transparent;
+        left: 0;
+        position: absolute;
+        top: 0;
+      }
+
+      .reveal .equation {
+        background: #ffffff;
+        border: 1px solid var(--rule);
+        border-radius: 8px;
+        box-sizing: border-box;
+        color: #101820;
+        font-size: 0.82em;
+        margin: 0.8em 0;
+        max-width: 1040px;
+        padding: 0.35em 0.75em;
+        width: 100%;
+      }
+
+      .reveal .small {
+        color: var(--muted);
+        font-size: 0.68em;
+        line-height: 1.35;
+      }
+
+      .reveal .two-column {
+        display: grid;
+        gap: 1.25em;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        margin: 1em 0 0;
+        max-width: 1040px;
         text-align: left;
-        width: 72%;
+        width: 100%;
+      }
+
+      .reveal .two-column ul {
+        width: auto;
+      }
+
+      .reveal .nested-list {
+        color: var(--muted);
+        font-size: 0.82em;
+        margin-top: 0.45em;
+        padding-left: 1.25em;
+        width: auto;
+      }
+
+      .reveal .nested-list li {
+        line-height: 1.23;
+        margin: 0.28em 0;
+      }
+
+      .reveal .comments-slide ol {
+        margin-top: 0.95em;
+      }
+
+      .reveal .comments-slide > ol > li {
+        margin-bottom: 0.85em;
+      }
+
+      .reveal .comments-slide .nested-list {
+        margin-top: 0.65em;
+      }
+
+      .reveal .comments-slide .nested-list li {
+        margin-bottom: 0.32em;
+      }
+
+      .reveal .stat {
+        color: var(--accent);
+        display: block;
+        font-size: 1.45em;
+        font-weight: 700;
+        line-height: 1.05;
+        margin-bottom: 0.18em;
+      }
+
+      .reveal .title-slide {
+        align-content: center;
+        display: grid;
+        justify-items: center;
+        min-height: 100%;
+        padding-bottom: 90px;
+        text-align: center;
+      }
+
+      .reveal .title-slide h1,
+      .reveal .title-slide h2,
+      .reveal .title-slide .subtitle {
+        border-bottom: 0;
+        max-width: 900px;
+        text-align: center;
+      }
+
+      .reveal .title-slide h1 {
+        font-size: 2.25em;
+        margin-bottom: 0.35em;
+      }
+
+      .reveal .title-slide h2 {
+        color: var(--accent);
+        font-size: 1.08em;
+        margin-bottom: 0.6em;
+        padding-bottom: 0;
       }
     </style>
   </head>
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>
+        <section class="title-slide">
           <h1>Early Warning Signs and the Transition</h1>
           <h2>Discussion</h2>
           <p class="subtitle">Evan Rose<br>University of Chicago</p>
         </section>
 
+        <section class="comments-slide">
+          <h2>Comments For Today</h2>
+          <ol>
+            <li>
+              We need to look <em>quite hard</em> to see worrying labor-market patterns in the data today.
+              <ul class="nested-list">
+                <li>Scale and substitution effects may be roughly balanced.</li>
+                <li>The productivity effects of AI may still be limited or hard to realize.</li>
+                <li>The transition may be coming, just not yet.</li>
+              </ul>
+            </li>
+            <li>Structural change is still coming, and that means reallocation. Our evidence on how to speed that up is weak.</li>
+          </ol>
+        </section>
+
+        <section class="squinting-slide">
+          <h2>Squinting At Time Series</h2>
+          <p>At the aggregate level, the labor market still looks pretty healthy.</p>
+          <img class="chart" src="assets/unemployment-rates.svg" alt="Unemployment rates for young workers, recent graduates, and college graduates from 1990 through 2026.">
+          <p class="takeaway">If AI is already reshaping the labor market, it is not yet obvious in the broad aggregates.</p>
+        </section>
+
         <section>
-          <h2>Why This Conversation</h2>
+          <h2>Evidence From Exposed Workers Is Contested</h2>
           <ul>
-            <li>AI tools are already changing how work gets done.</li>
-            <li>The useful question is not whether to use AI, but where it helps and where it creates risk.</li>
-            <li>Good policy needs practical examples from actual workflows.</li>
+            <li>Demand changes among adopting firms are difficult to interpret because adoption is endogenous.</li>
+            <li>There is a clear trend in "AI-washing" layoff explanations.</li>
+            <li>Post-pandemic changes in the nature of work make attribution even harder.</li>
+          </ul>
+          <p class="takeaway">Empirical challenge: we are left with either cross-occupation DiD, where exclusion is tricky, or cross-firm DiD, where adoption is a choice.</p>
+          <p class="takeaway">Either one gives us <em>relative effects</em>.</p>
+        </section>
+
+        <section class="bls-slide">
+          <h2>Even The Clearest Cases Are Messy</h2>
+          <p>Customer service is a natural place to look, but the secular trend predates generative AI.</p>
+          <blockquote class="quote">
+            "There is expected to be less demand for customer service representatives, especially in retail trade, as their tasks continue to be automated. Self-service systems, social media, and mobile applications enable customers to do simple tasks without interacting with a representative. Advancements in technology will gradually allow these automated systems to do even more tasks. Some companies will continue to use in-house service centers to differentiate themselves from competitors, particularly for complex inquiries such as refunding accounts or confirming insurance coverage."
+          </blockquote>
+          <p class="source-note">Source: U.S. Bureau of Labor Statistics, Occupational Outlook Handbook, Customer Service Representatives.</p>
+          <ul>
+            <li>Projected decline: about 5 percent, versus about 3 percent growth across all occupations.</li>
+            <li>The question is whether generative AI accelerates an existing trend or creates a new break.</li>
+          </ul>
+          <p class="takeaway">Is AI having measurable labor-market effects today? Not obvious to me just yet.</p>
+        </section>
+
+        <section class="hicks-slide">
+          <p class="section-label">1. Hicks-Marshall Strikes Back</p>
+          <h2 class="fragment">If AI Is Useful, Unit Labor Demand Should Fall</h2>
+          <p class="fragment">Holding output fixed, AI should weakly reduce labor requirements in a sector.</p>
+          <div class="equation fragment">
+            \[
+              \Delta \log(L/Q) = -\sigma s_{AI}\Delta \theta_{AI}
+            \]
+          </div>
+          <ul>
+            <li>\(\sigma\): elasticity of substitution between labor and AI/IT.</li>
+            <li>\(s_{AI}\): AI cost share.</li>
+            <li>\(\Delta \theta_{AI}\): AI productivity growth.</li>
+          </ul>
+          <p class="takeaway">Unless production is Leontief, output-constant labor demand should fall. The size depends on substitutability and cost shares.</p>
+          <p class="takeaway">Same intuition holds in a task-based model.</p>
+        </section>
+
+        <section>
+          <h2>How Substitutable Is AI?</h2>
+          <p>My guess is that for most sectors \(\sigma \sim 1\) at a high level, at least right now.</p>
+          <ul>
+            <li>Interpretation: AI and labor are substitutes.</li>
+            <li>Why? This implies that AI cost <em>shares</em> should be staying roughly the same or increasing slightly, which seems consistent with reality.</li>
+            <li>JPMorgan says technology expense is expected to be about <strong>$19.8B</strong>, up <strong>10% year over year</strong>, while rising by less than 1 percentage point as a share of total costs.</li>
+          </ul>
+          <p class="takeaway">It would be useful to formalize this with real data.</p>
+        </section>
+
+        <section>
+          <h2>But Total Labor Demand Is Mostly About Scale</h2>
+          <p>Productivity improvements lower unit costs, which can expand output.</p>
+          <div class="equation">
+            \[
+              \Delta \log L = (\eta - \sigma)s_{AI}\Delta \theta_{AI}
+            \]
+          </div>
+          <ul>
+            <li>If \(\eta > \sigma\), scale effects can dominate substitution.</li>
+            <li>If \(\eta < \sigma\), substitution dominates.</li>
+            <li>Near-zero net effects are plausible when demand elasticity and substitution are similar.</li>
+            <li>For banking services, \(\eta \sim 1\) does not seem crazy, which may be close to the JPMorgan scenario.</li>
+          </ul>
+          <p class="takeaway">The key question is not simply whether AI substitutes for labor. It is whether cheaper output expands demand enough to offset that substitution.</p>
+        </section>
+
+        <section>
+          <h2>Cost Shares May Still Be Small</h2>
+          <div class="two-column">
+            <div>
+              <span class="stat">$19.8B</span>
+              <p class="small">JPMorgan expected technology expense, up about 10 percent year over year. AI is likely a small part of total tech spending.</p>
+            </div>
+            <div>
+              <span class="stat">0.3%</span>
+              <p class="small">UnitedHealth AI-related initiatives as a share of revenue, roughly 2.4 percent of operating costs.</p>
+            </div>
+          </div>
+          <p class="takeaway">Even if AI is productive, aggregate labor-market impacts may be small when AI cost shares are still tiny.</p>
+        </section>
+
+        <section>
+          <p class="section-label">2. Putting The Cart Before The Horse</p>
+          <h2>Do We Know AI Is Reducing Unit Costs?</h2>
+          <p>All of this analysis requires a world where AI really is decreasing unit costs.</p>
+          <ul>
+            <li>Credible studies estimate important productivity impacts of AI, but we know it's not always that simple.</li>
+            <li>Workplaces are not set up right now to solve the implicit agency issues (just ask my research assistants).</li>
+            <li>So I am not sure we know that \(\Delta \theta_{AI}\) is big in production yet.</li>
+          </ul>
+        </section>
+
+        <section class="activity-slide">
+          <h2>Activity Is Going Up</h2>
+          <p>It certainly seems like total coding activity is rising.</p>
+          <img class="chart" src="assets/git-pushes.png" alt="Graph of GitHub commit or push activity.">
+          <p class="takeaway">But are we getting more <em>value</em>? More activity is not the same thing as more useful output.</p>
+        </section>
+
+        <section class="value-chart-slide">
+          <h2>Where Is The Value Showing Up?</h2>
+          <div class="chart-stack">
+            <img class="chart" src="assets/fred-output-base.svg" alt="FRED nonfarm business sector output per hour from 2016 through 2026.">
+            <img class="chart chart-overlay fragment" src="assets/fred-output-overlay.svg" alt="FRED nonfarm business sector real output from 2016 through 2026.">
+            <img class="chart chart-overlay fragment" src="assets/fred-hours-overlay.svg" alt="FRED nonfarm business sector hours from 2018 through 2026.">
+          </div>
+        </section>
+
+        <section>
+          <h2>Where Is The Value Showing Up?</h2>
+          <ul>
+            <li>Where are the new products and services? New ideas?</li>
+            <li>We can't even decide if the unit distance conjecture is a big deal.</li>
+            <li>Arguably most consumer surplus from AI is from the tools themselves (e.g., ChatGPT as therapy), not as inputs in production of other stuff.</li>
+          </ul>
+          <p class="takeaway">It is hard to expect major labor-market shifts before firms have figured out how to reliably capture the productivity boost.</p>
+        </section>
+
+        <section>
+          <p class="section-label">3. Would We Know It When We Saw It?</p>
+          <h2>Diffusion Can Be Slow Even When The Advantage Is Clear</h2>
+          <ul>
+            <li>The Ford Model T rolled off the line in 1908.</li>
+            <li>Carriage and wagon employment did not immediately crater.</li>
+            <li>The horse and mule population peaked between 1910 and 1920.</li>
+            <li>In 1920, there were still about twice as many horses as automobile registrations.</li>
           </ul>
         </section>
 
         <section>
-          <h2>Discussion Goals</h2>
+          <h2>Even Obvious Cost Advantages Do Not Guarantee Instant Transition</h2>
+          <p>Census estimates for spring plowing costs per acre:</p>
+          <div class="two-column">
+            <div>
+              <span class="stat">$2.89</span>
+              <p>Horses</p>
+            </div>
+            <div>
+              <span class="stat">$2.01-$2.15</span>
+              <p>Tractor</p>
+            </div>
+          </div>
+          <p class="takeaway">Maybe generative AI will diffuse faster. But maybe not. Complementary investments, institutions, and adjustment frictions matter.</p>
+        </section>
+
+        <section>
+          <h2>The Elevator Operator Example</h2>
+          <p>Automatic elevators existed in the 1920s.</p>
+          <p class="prompt">When did elevator operator employment peak?</p>
+          <p class="fragment takeaway">Answer: 1950. New installations then switched to automatic elevators very quickly.</p>
+          <p class="fragment subtitle">Are we in 1930, 1940, or 1950 for generative AI? I am not sure.</p>
+        </section>
+
+        <section>
+          <h2>Managing The Transition</h2>
+          <p>I am not an AI skeptic. Structural change is coming.</p>
+          <p class="takeaway">There is only one answer: reallocation. The work people do will have to change, just as it has for the last 150 years and more.</p>
+        </section>
+
+        <section>
+          <h2>What Do We Actually Know How To Do?</h2>
           <ul>
-            <li>Identify high-value use cases.</li>
-            <li>Separate productivity gains from quality or compliance risks.</li>
-            <li>Agree on norms for responsible experimentation.</li>
+            <li>The job-training literature is mostly about programs for people with limited formal education, limited labor-market experience, or low incomes.</li>
+            <li>That evidence base is a poor guide for many AI-exposed white-collar workers.</li>
+            <li>What do we do for people with roughly 10 years of experience? Back to college? Short training? Nothing?</li>
           </ul>
         </section>
 
         <section>
-          <h2>Where AI Helps</h2>
+          <h2>Research Agenda</h2>
           <ul>
-            <li>Drafting and editing routine text.</li>
-            <li>Summarizing long documents or meeting notes.</li>
-            <li>Generating first-pass code, queries, templates, or checklists.</li>
-            <li>Brainstorming alternatives before human judgment takes over.</li>
+            <li>Which workers and sectors are most exposed to AI-driven reallocation?</li>
+            <li>Where can those workers transition?</li>
+            <li>What skills, credentials, or institutions actually help?</li>
+            <li>How do we speed reallocation without pretending adjustment is costless?</li>
           </ul>
+          <p class="takeaway">The transition question is not secondary. It is where the policy problem ultimately lands.</p>
         </section>
 
         <section>
-          <h2>Where To Be Careful</h2>
-          <ul>
-            <li>Private, confidential, or regulated data.</li>
-            <li>Facts that require current or source-specific accuracy.</li>
-            <li>Decisions that materially affect people.</li>
-            <li>Outputs that may carry legal, ethical, or reputational consequences.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Practical Norms</h2>
-          <ul>
-            <li>Use AI for drafts, not unattended final decisions.</li>
-            <li>Verify important claims against reliable sources.</li>
-            <li>Keep sensitive data out of tools that are not approved for it.</li>
-            <li>Document when AI materially shaped externally shared work.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Small-Group Prompt</h2>
-          <p class="prompt">
-            Pick one recurring task in your work. What would you be comfortable delegating to AI, what would you keep human-led, and what would need to be checked before anyone relied on the output?
-          </p>
-        </section>
-
-        <section>
-          <h2>Report Back</h2>
-          <ul>
-            <li>One promising use case.</li>
-            <li>One risk or boundary condition.</li>
-            <li>One norm that would make experimentation safer.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Next Steps</h2>
-          <ul>
-            <li>Choose a small number of workflows to pilot.</li>
-            <li>Define review standards before rollout.</li>
-            <li>Collect examples of what worked and what failed.</li>
-            <li>Revise guidance as tools and practices change.</li>
-          </ul>
+          <h2>Takeaways</h2>
+          <ol>
+            <li>The data today do not yet show an obvious AI labor-market rupture.</li>
+            <li>Near-zero effects are consistent with balanced scale and substitution, small cost shares, or unrealized productivity gains.</li>
+            <li>Historical transitions warn against over-reading the early period.</li>
+            <li>We need much better evidence on reallocation for AI-exposed workers.</li>
+          </ol>
         </section>
       </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>
+      document.querySelectorAll(".reveal .slides section li, .reveal .slides section .takeaway, .reveal .slides section .prompt, .reveal .slides section blockquote.quote, .reveal .slides section .source-note").forEach(function (item) {
+        item.classList.add("fragment");
+      });
+
       Reveal.initialize({
         hash: true,
+        width: 1280,
+        height: 720,
+        margin: 0.06,
         slideNumber: true,
-        transition: "fade",
+        transition: "none",
+        backgroundTransition: "none",
         controlsTutorial: false
       });
     </script>
