@@ -12,154 +12,590 @@
 
     <style>
       :root {
+        --r-background-color: #fbfcfd;
         --r-main-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        --r-main-font-size: 30px;
         --r-heading-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
         --r-heading-text-transform: none;
         --r-heading-letter-spacing: 0;
         --r-link-color: #245c75;
         --r-selection-background-color: #d9ebe7;
+        --ink: #18212b;
+        --muted: #556171;
+        --rule: #d9e0e8;
+        --accent: #245c75;
+        --accent-2: #7b4e24;
+        --accent-3: #476a3f;
+        --soft: #edf6f5;
       }
 
       .reveal {
-        color: #1f2933;
+        color: var(--ink);
+      }
+
+      .reveal .slides {
+        text-align: left;
+      }
+
+      .reveal .slides section {
+        box-sizing: border-box;
+        padding: 42px 58px;
       }
 
       .reveal h1,
       .reveal h2,
       .reveal h3 {
-        color: #111827;
+        color: #101820;
         font-weight: 700;
+        letter-spacing: 0;
+        line-height: 1.08;
+        margin: 0 0 0.45em;
+        text-align: left;
       }
 
       .reveal h1 {
-        font-size: 2.6em;
+        font-size: 2.05em;
       }
 
       .reveal h2 {
-        font-size: 1.75em;
+        border-bottom: 1px solid var(--rule);
+        font-size: 1.28em;
+        padding-bottom: 0.28em;
       }
 
-      .reveal p,
-      .reveal li {
-        line-height: 1.35;
+      .reveal p {
+        font-size: 0.82em;
+        line-height: 1.34;
+        margin: 0.35em 0 0.65em;
       }
 
-      .reveal ul,
-      .reveal ol {
-        width: 78%;
+      .kicker,
+      .status {
+        color: var(--muted);
+        font-size: 0.58em;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        margin: 0 0 0.75em;
+        text-transform: uppercase;
       }
 
-      .reveal .subtitle {
-        color: #4b5563;
-        font-size: 0.9em;
-        margin-top: 1.2em;
+      .status {
+        bottom: 28px;
+        position: absolute;
+        right: 58px;
       }
 
-      .reveal .question {
-        border-left: 0.22em solid #245c75;
-        color: #374151;
-        font-size: 0.95em;
-        margin: 1.5em auto 0;
-        padding: 0.1em 0 0.1em 0.85em;
+      .survey-slide {
+        align-content: center;
+        display: grid;
+        gap: 1.2em;
+        grid-template-columns: minmax(0, 1fr) 360px;
+        min-height: 100%;
+      }
+
+      .survey-slide h1 {
+        max-width: 780px;
+      }
+
+      .survey-url {
+        background: var(--soft);
+        border-left: 7px solid var(--accent);
+        border-radius: 0 8px 8px 0;
+        box-sizing: border-box;
+        color: #23313c;
+        display: inline-block;
+        font-size: 0.62em;
+        margin-top: 1.1em;
+        overflow-wrap: anywhere;
+        padding: 0.7em 0.85em;
+        text-decoration: none;
+      }
+
+      .qr-wrap {
+        align-self: center;
+        background: #ffffff;
+        border: 1px solid var(--rule);
+        border-radius: 8px;
+        padding: 18px;
+      }
+
+      .qr-wrap img {
+        display: block;
+        height: 324px;
+        width: 324px;
+      }
+
+      .result-meta {
+        color: var(--muted);
+        display: flex;
+        font-size: 0.58em;
+        gap: 1.2em;
+        margin-top: -0.35em;
+      }
+
+      .bars,
+      .matrix {
+        margin-top: 0.9em;
+        max-width: 1100px;
+      }
+
+      .bar-row {
+        align-items: center;
+        display: grid;
+        gap: 0.75em;
+        grid-template-columns: minmax(300px, 0.9fr) minmax(0, 1.1fr) 72px;
+        margin: 0.52em 0;
+      }
+
+      .bar-label {
+        color: #25313d;
+        font-size: 0.58em;
+        line-height: 1.18;
+      }
+
+      .bar-track {
+        background: #eef2f5;
+        border-radius: 6px;
+        height: 22px;
+        overflow: hidden;
+      }
+
+      .bar-fill {
+        background: var(--accent);
+        height: 100%;
+        min-width: 0;
+        transition: width 240ms ease;
+      }
+
+      .bar-row:nth-child(3n + 1) .bar-fill {
+        background: var(--accent);
+      }
+
+      .bar-row:nth-child(3n + 2) .bar-fill {
+        background: var(--accent-2);
+      }
+
+      .bar-row:nth-child(3n) .bar-fill {
+        background: var(--accent-3);
+      }
+
+      .bar-value {
+        color: var(--muted);
+        font-size: 0.58em;
+        text-align: right;
+      }
+
+      .matrix {
+        display: grid;
+        gap: 0.42em;
+        grid-template-columns: 220px repeat(5, minmax(0, 1fr));
+      }
+
+      .matrix-cell {
+        align-items: center;
+        background: #f4f7fa;
+        border: 1px solid #e2e8f0;
+        border-radius: 6px;
+        box-sizing: border-box;
+        color: #1f2933;
+        display: flex;
+        justify-content: center;
+        min-height: 54px;
+        padding: 0.35em;
+        text-align: center;
+      }
+
+      .matrix-header {
+        color: var(--muted);
+        font-size: 0.46em;
+        font-weight: 700;
+        line-height: 1.15;
+      }
+
+      .matrix-row-label {
+        background: #ffffff;
+        color: #25313d;
+        font-size: 0.54em;
+        font-weight: 700;
+        justify-content: flex-start;
+        line-height: 1.15;
         text-align: left;
-        width: 72%;
+      }
+
+      .matrix-value {
+        color: #ffffff;
+        flex-direction: column;
+        font-weight: 700;
+      }
+
+      .matrix-count {
+        font-size: 0.72em;
+        line-height: 1;
+      }
+
+      .matrix-share {
+        font-size: 0.42em;
+        line-height: 1.2;
+        opacity: 0.9;
+      }
+
+      .empty {
+        color: var(--muted);
+        font-size: 0.74em;
+        margin-top: 1.4em;
+      }
+
+      .error {
+        color: #9b2c2c;
       }
     </style>
   </head>
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>
-          <h1>AI Workplace Survey</h1>
-          <p class="subtitle">A working slide deck for introducing and discussing survey results</p>
+        <section class="survey-slide">
+          <div>
+            <p class="kicker">Audience poll</p>
+            <h1>AI in the Workplace</h1>
+            <p>Scan the QR code or open the link to submit your response.</p>
+            <a class="survey-url" href="https://forms.gle/RtDP5khQvyYJh6ia6">https://forms.gle/RtDP5khQvyYJh6ia6</a>
+          </div>
+          <div class="qr-wrap">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=324x324&amp;margin=12&amp;data=https%3A%2F%2Fforms.gle%2FRtDP5khQvyYJh6ia6" alt="QR code linking to the AI in the Workplace audience poll.">
+          </div>
         </section>
 
-        <section>
-          <h2>Purpose</h2>
-          <ul>
-            <li>Understand how people are currently using AI tools at work.</li>
-            <li>Identify common barriers, concerns, and training needs.</li>
-            <li>Use the results to guide practical workplace policy.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>What We Asked</h2>
-          <ul>
-            <li>Which AI tools people have tried.</li>
-            <li>Which tasks they use AI for.</li>
-            <li>How useful, reliable, or risky the tools feel.</li>
-            <li>What support would make AI use more effective.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Key Themes</h2>
-          <ul>
-            <li>Adoption varies widely across teams and roles.</li>
-            <li>Many people are experimenting informally.</li>
-            <li>Uncertainty about appropriate use remains common.</li>
-            <li>Clear examples are more useful than abstract guidance.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Use Cases</h2>
-          <ul>
-            <li>Writing, editing, and summarizing text.</li>
-            <li>Preparing outlines, agendas, and project plans.</li>
-            <li>Drafting code, formulas, or data-cleaning steps.</li>
-            <li>Exploring ideas before choosing a direction.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Concerns</h2>
-          <ul>
-            <li>Accuracy and hallucinated details.</li>
-            <li>Confidentiality and data handling.</li>
-            <li>Uneven access to tools or training.</li>
-            <li>Unclear accountability for AI-assisted work.</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>Discussion Question</h2>
-          <p class="question">
-            Based on the survey results, where should guidance be more permissive, where should it set clearer limits, and where do people need better examples?
-          </p>
-        </section>
-
-        <section>
-          <h2>Potential Actions</h2>
-          <ol>
-            <li>Create a short approved-use guide.</li>
-            <li>Publish examples of acceptable and unacceptable workflows.</li>
-            <li>Offer lightweight training for common tasks.</li>
-            <li>Revisit survey results after a pilot period.</li>
-          </ol>
-        </section>
-
-        <section>
-          <h2>Next Steps</h2>
-          <ul>
-            <li>Review survey findings with stakeholders.</li>
-            <li>Prioritize the highest-value support gaps.</li>
-            <li>Translate findings into concrete guidance.</li>
-            <li>Track how workplace AI use changes over time.</li>
-          </ul>
-        </section>
+        <section class="result-slide" data-question-id="industry"></section>
+        <section class="result-slide" data-question-id="employment"></section>
+        <section class="result-slide" data-question-id="capabilities"></section>
+        <section class="result-slide" data-question-id="papers"></section>
+        <section class="result-slide" data-question-id="signals"></section>
+        <section class="result-slide" data-question-id="entrepreneurship"></section>
+        <section class="result-slide" data-question-id="matching"></section>
       </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
     <script>
+      const SHEET_ID = "135JHbHVwC0Wg6MRQ5naNZ6gvl2jUClH-uVPAG_tNF9w";
+      const POLL_MS = 4000;
+      const RESPONSE_URL = "https://docs.google.com/spreadsheets/d/" + SHEET_ID + "/gviz/tq";
+
+      const OUTCOMES = [
+        { key: "substantial_decline", label: "Substantial decline (>15%)" },
+        { key: "moderate_decline", label: "Moderate decline (5-15%)" },
+        { key: "unchanged", label: "About unchanged (+/-5%)" },
+        { key: "moderate_increase", label: "Moderate increase (5-15%)" },
+        { key: "substantial_increase", label: "Substantial increase (>15%)" }
+      ];
+
+      const QUESTIONS = [
+        {
+          id: "industry",
+          title: "Industry",
+          prompt: "Which best describes your work?",
+          type: "bars",
+          header: "Which best describes your work?",
+          options: [
+            { key: "academic", label: "Academic", match: "Academic" },
+            { key: "industry", label: "Industry", match: "Industry" },
+            { key: "ai_lab", label: "AI Lab", match: "AI Lab" },
+            { key: "other", label: "Other", match: "Other" }
+          ]
+        },
+        {
+          id: "employment",
+          title: "AI as Complement vs. Substitute",
+          prompt: "By 2030, AI's effect on US employment in each of these professions will be:",
+          type: "matrix",
+          rows: [
+            { key: "software", label: "Software developers", header: "By 2030, AI's effect on US employment in each of these professions will be: [Software developers]" },
+            { key: "support", label: "Customer support representatives", header: "By 2030, AI's effect on US employment in each of these professions will be: [Customer support representatives]" },
+            { key: "lawyers", label: "Lawyers", header: "By 2030, AI's effect on US employment in each of these professions will be: [Lawyers]" },
+            { key: "economists", label: "Economists", header: "By 2030, AI's effect on US employment in each of these professions will be: [Economists]" }
+          ],
+          columns: OUTCOMES
+        },
+        {
+          id: "capabilities",
+          title: "AI Capabilities By 2030",
+          prompt: "Which scenario best describes AI capabilities by 2030?",
+          type: "bars",
+          header: "Which scenario best describes AI capabilities by 2030?",
+          options: [
+            { key: "slow", label: "Slow progress: AI as a capable assistant", match: "Slow progress" },
+            { key: "moderate", label: "Moderate progress: AI as an effective collaborator", match: "Moder" },
+            { key: "rapid", label: "Rapid progress: AI surpasses humans on most cognitive and physical tasks", match: "Rapid progress" }
+          ]
+        },
+        {
+          id: "papers",
+          title: "AI in R&D",
+          prompt: "By 2030, the traditional academic economics paper will be:",
+          type: "bars",
+          header: "By 2030, the traditional academic economics paper will be:",
+          options: [
+            { key: "more_important", label: "MORE important: trusted filter and gatekeeper", match: "MORE important" },
+            { key: "unchanged", label: "Alive and unchanged", match: "Alive and unchanged" },
+            { key: "slop", label: "Drowning in AI slop", match: "Drowning in AI slop" },
+            { key: "slow", label: "Outpaced by slow publishing", match: "Outpaced by slow publishing" },
+            { key: "industry", label: "Bypassed by industry", match: "Bypassed by industry" }
+          ]
+        },
+        {
+          id: "signals",
+          title: "Early Warning Signs",
+          prompt: "Where will we FIRST see clear signs that AI is reshaping the US labor market?",
+          type: "bars",
+          header: "Where will we FIRST see clear signs that AI is reshaping the US labor market?",
+          options: [
+            { key: "hiring", label: "Hiring: falling postings and new hires", match: "Hiring:" },
+            { key: "layoffs", label: "Layoffs: visible job losses", match: "Layoffs:" },
+            { key: "within_firm", label: "Within-firm reorganization", match: "Within-firm reorganization" },
+            { key: "productivity", label: "Productivity or wages before headcount", match: "Productivity or wages" },
+            { key: "no_signal", label: "No clear signal by 2030", match: "No clear signal" }
+          ]
+        },
+        {
+          id: "entrepreneurship",
+          title: "Entrepreneurship In The Age Of AI",
+          prompt: "What will be the BIGGEST AI-driven change to the US business landscape by 2030?",
+          type: "bars",
+          header: "What will be the BIGGEST AI-driven change to the US business landscape by 2030?",
+          options: [
+            { key: "new_firms", label: "More new firms", match: "More new firms" },
+            { key: "smaller", label: "Smaller firms / solopreneurs", match: "Smaller firms" },
+            { key: "concentration", label: "More concentration", match: "More concentration" },
+            { key: "bifurcation", label: "Bifurcation", match: "Bifurcation" },
+            { key: "little", label: "Little change", match: "Little change" }
+          ]
+        },
+        {
+          id: "matching",
+          title: "AI And Signaling In The Labor Market",
+          prompt: "By 2030, how will AI affect the match between workers and jobs?",
+          type: "bars",
+          header: "By 2030, how will AI affect the match between workers and jobs?",
+          options: [
+            { key: "better", label: "Better matches", match: "Better matches" },
+            { key: "worse", label: "Worse matches", match: "Worse matches" },
+            { key: "outsiders", label: "Better for outsiders, worse for insiders", match: "Better for outsiders" },
+            { key: "insiders", label: "Better for insiders, worse for outsiders", match: "Better for insiders" },
+            { key: "no_change", label: "No substantial change", match: "No substantial change" }
+          ]
+        }
+      ];
+
+      let latestRows = [];
+      let latestHeaders = [];
+      let latestError = "";
+
+      function normalize(value) {
+        return String(value || "")
+          .replace(/\s+/g, " ")
+          .trim();
+      }
+
+      function percent(count, total) {
+        if (!total) return "0%";
+        return Math.round((count / total) * 100) + "%";
+      }
+
+      function findColumn(headers, expected) {
+        return headers.findIndex(function (header) {
+          return normalize(header) === normalize(expected);
+        });
+      }
+
+      function optionMatches(value, option) {
+        return normalize(value).indexOf(option.match) === 0 || normalize(value) === normalize(option.label);
+      }
+
+      function renderBars(question, rows, headers) {
+        const columnIndex = findColumn(headers, question.header);
+        const counts = question.options.map(function (option) {
+          return { label: option.label, count: 0 };
+        });
+        let total = 0;
+
+        if (columnIndex >= 0) {
+          rows.forEach(function (row) {
+            const value = normalize(row[columnIndex]);
+            if (!value) return;
+            total += 1;
+            const matchIndex = question.options.findIndex(function (option) {
+              return optionMatches(value, option);
+            });
+            if (matchIndex >= 0) counts[matchIndex].count += 1;
+          });
+        }
+
+        const maxCount = Math.max(1, ...counts.map(function (item) { return item.count; }));
+        const bars = counts.map(function (item) {
+          const width = (item.count / maxCount) * 100;
+          return '<div class="bar-row">' +
+            '<div class="bar-label">' + escapeHtml(item.label) + '</div>' +
+            '<div class="bar-track"><div class="bar-fill" style="width:' + width + '%"></div></div>' +
+            '<div class="bar-value">' + item.count + ' (' + percent(item.count, total) + ')</div>' +
+          '</div>';
+        }).join("");
+
+        return {
+          total: total,
+          html: total ? '<div class="bars">' + bars + '</div>' : '<p class="empty">Waiting for responses...</p>'
+        };
+      }
+
+      function renderMatrix(question, rows, headers) {
+        const rowData = question.rows.map(function (matrixRow) {
+          const columnIndex = findColumn(headers, matrixRow.header);
+          const counts = question.columns.map(function (column) {
+            return { label: column.label, count: 0 };
+          });
+          let total = 0;
+
+          if (columnIndex >= 0) {
+            rows.forEach(function (row) {
+              const value = normalize(row[columnIndex]);
+              if (!value) return;
+              total += 1;
+              const matchIndex = question.columns.findIndex(function (column) {
+                return optionMatches(value, column);
+              });
+              if (matchIndex >= 0) counts[matchIndex].count += 1;
+            });
+          }
+
+          return { label: matrixRow.label, total: total, counts: counts };
+        });
+
+        const maxCount = Math.max(1, ...rowData.flatMap(function (row) {
+          return row.counts.map(function (item) { return item.count; });
+        }));
+
+        const headerCells = '<div></div>' + question.columns.map(function (column) {
+          return '<div class="matrix-cell matrix-header">' + escapeHtml(column.label) + '</div>';
+        }).join("");
+
+        const body = rowData.map(function (row) {
+          const cells = row.counts.map(function (item) {
+            const alpha = item.count ? 0.25 + (item.count / maxCount) * 0.75 : 0.06;
+            const color = item.count ? 'rgba(36, 92, 117, ' + alpha.toFixed(2) + ')' : '#f4f7fa';
+            const textColor = item.count ? '#ffffff' : '#7a8491';
+            return '<div class="matrix-cell matrix-value" style="background:' + color + ';color:' + textColor + '">' +
+              '<span class="matrix-count">' + item.count + '</span>' +
+              '<span class="matrix-share">' + percent(item.count, row.total) + '</span>' +
+            '</div>';
+          }).join("");
+
+          return '<div class="matrix-cell matrix-row-label">' + escapeHtml(row.label) + '</div>' + cells;
+        }).join("");
+
+        const total = Math.max(...rowData.map(function (row) { return row.total; }), 0);
+        return {
+          total: total,
+          html: total ? '<div class="matrix">' + headerCells + body + '</div>' : '<p class="empty">Waiting for responses...</p>'
+        };
+      }
+
+      function renderSlides(rows, headers) {
+        QUESTIONS.forEach(function (question) {
+          const slide = document.querySelector('[data-question-id="' + question.id + '"]');
+          const rendered = question.type === "matrix" ? renderMatrix(question, rows, headers) : renderBars(question, rows, headers);
+          slide.innerHTML =
+            '<h2>' + escapeHtml(question.title) + '</h2>' +
+            '<p>' + escapeHtml(question.prompt) + '</p>' +
+            '<div class="result-meta"><span>Responses: ' + rows.length + '</span><span>Question n: ' + rendered.total + '</span></div>' +
+            rendered.html +
+            '<p class="status' + (latestError ? ' error' : '') + '">' + escapeHtml(latestError || 'Live results update every 4 seconds') + '</p>';
+        });
+      }
+
+      function escapeHtml(value) {
+        return String(value).replace(/[&<>"']/g, function (character) {
+          return {
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            '"': "&quot;",
+            "'": "&#039;"
+          }[character];
+        });
+      }
+
+      function parseTable(table) {
+        let headers = table.cols.map(function (column) { return normalize(column.label); });
+        let rows = table.rows.map(function (row) {
+          return table.cols.map(function (_, index) {
+            const cell = row.c[index];
+            return cell ? normalize(cell.v) : "";
+          });
+        });
+
+        if (headers.every(function (header) { return !header; }) && rows.length) {
+          headers = rows[0];
+          rows = rows.slice(1);
+        }
+
+        rows = rows.filter(function (row) {
+          return row.some(Boolean);
+        });
+        return { headers: headers, rows: rows };
+      }
+
+      function pollSheet() {
+        const callback = "__surveyResults_" + Date.now();
+        const script = document.createElement("script");
+        const params = new URLSearchParams({
+          tqx: "out:json;responseHandler:" + callback,
+          tq: "select *",
+          cache: String(Date.now())
+        });
+
+        window[callback] = function (response) {
+          try {
+            if (response.status === "error") {
+              throw new Error(response.errors && response.errors[0] ? response.errors[0].detailed_message : "Could not load sheet");
+            }
+            const parsed = parseTable(response.table);
+            latestRows = parsed.rows;
+            latestHeaders = parsed.headers;
+            latestError = "";
+            renderSlides(parsed.rows, parsed.headers);
+          } catch (error) {
+            latestError = error.message || "Could not load sheet";
+            renderSlides(latestRows, latestHeaders);
+          } finally {
+            delete window[callback];
+            script.remove();
+          }
+        };
+
+        script.onerror = function () {
+          latestError = "Could not load public response sheet";
+          renderSlides(latestRows, latestHeaders);
+          delete window[callback];
+          script.remove();
+        };
+
+        script.src = RESPONSE_URL + "?" + params.toString();
+        document.head.appendChild(script);
+      }
+
       Reveal.initialize({
         hash: true,
+        width: 1280,
+        height: 720,
+        margin: 0.06,
         slideNumber: true,
-        transition: "fade",
+        transition: "none",
+        backgroundTransition: "none",
         controlsTutorial: false
       });
+
+      renderSlides([], []);
+      pollSheet();
+      window.setInterval(pollSheet, POLL_MS);
     </script>
   </body>
 </html>
