@@ -69,20 +69,13 @@
         margin: 0.35em 0 0.65em;
       }
 
-      .kicker,
-      .status {
+      .kicker {
         color: var(--muted);
         font-size: 0.58em;
         font-weight: 700;
         letter-spacing: 0.08em;
         margin: 0 0 0.75em;
         text-transform: uppercase;
-      }
-
-      .status {
-        bottom: 28px;
-        position: absolute;
-        right: 58px;
       }
 
       .survey-slide {
@@ -506,8 +499,7 @@
             '<h2>' + escapeHtml(question.title) + '</h2>' +
             '<p>' + escapeHtml(question.prompt) + '</p>' +
             '<div class="result-meta"><span>Responses: ' + rows.length + '</span><span>Question n: ' + rendered.total + '</span></div>' +
-            rendered.html +
-            '<p class="status' + (latestError ? ' error' : '') + '">' + escapeHtml(latestError || 'Live results update every 4 seconds') + '</p>';
+            rendered.html;
         });
       }
 
