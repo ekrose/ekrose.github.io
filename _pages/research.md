@@ -9,6 +9,8 @@ redirect_from:
 {% include base_path %}
 
 ## Works in progress 
+[**Public Perceptions of Discrimination at Large Firms**](/files/discrim_beliefs.pdf) with with [Patrick Kline](https://eml.berkeley.edu/~pkline/) and [Christopher Walters](https://eml.berkeley.edu/~crwalters/)  
+
 [**Pay and Amenities on the Move**](http://www.andershumlum.com/s/pay-amenities-on-the-move.pdf) with [Anders Humlum](https://www.andershumlum.com/) and [Mette Rasmussen](https://sites.google.com/view/mette-rasmussen/home)  
 Under review; [related NBER working paper](https://www.nber.org/papers/w33884) ("Firm Premia and Match Effects in Pay vs. Amenities")  
 
